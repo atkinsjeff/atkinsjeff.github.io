@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<xml version="1.0" encoding="utf-8">
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
 	<channel>
 		<atom:link href="http://atkinsjeff.github.io/majorrevisions/majorrevisions_rss.xml" rel="self" type="application/rss+xml"/>
@@ -8,28 +8,22 @@
 		
 		<link>http://majorrevisions.weebly.com/episodes</link>
 		<language>en-us</language>
-		<copyright>&#xA9;2013</copyright>
 		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
 		<managingEditor>majorrevisionsshow@gmail.com (J. Atkins)</managingEditor>
-
-		<title>Major Revisions</title>
-		<link>http://majorrevisions.weebly.com</link>
 		<description>
 			A mostly-weekly podcast from three early career ecologists about science, academia, life, and other stuff.
 		</description>
-		<language>en-us</language>
 		<copyright>Copyright 2016</copyright>
 		<lastBuildDate>Mon, 24 Oct 2016 14:13:00 -0700</lastBuildDate>
 		<pubDate>Mon, 24 Oct 2016 14:13:00 -0700</pubDate>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
-		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
 
 
 
 
 		<itunes:owner>
 			<itunes:name>Major Revisions</itunes:name>
-			<itunes:email>majorrevisionsshow@gmail.com</itunes:email>
+			<itunes:email>majorrevisionsshow@gmail.com (J. Atkins)</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Science &amp; Medicine"/>
 		<itunes:category text="Higher Education" />
@@ -39,6 +33,9 @@
 		
 		<image>
 			<url>http://i.imgur.com/UswzUCU.png</url>
+			<title>	Major Revisions</title>
+			<width>144</width>
+			<height>144</height>
 		</image>
 
 
