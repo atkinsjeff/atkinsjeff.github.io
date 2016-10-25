@@ -29,14 +29,9 @@
 			<itunes:email>majorrevisionsshow@gmail.com (J. Atkins)</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Science &amp; Medicine"/>
-		<itunes:category text="Higher Education" />
 		<itunes:keywords>ecology, science, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
-		
-		<image> <url>http://i.imgur.com/UswzUCU.png</url></image>
-		
-
 
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/289899138</guid>
@@ -93,8 +88,8 @@
       <itunes:summary>In the inaugural show,  Jon, Grace, and Jeff discuss an article on the 100 questions for the future of ecology--from how to define and refine spatial scales, to addressing publication and the "final drawer" problem. </itunes:summary>
       <itunes:subtitle>In the inaugural show,  Jon, Grace, and Jeff discuss…</itunes:subtitle>
       <description>In the inaugural show,  Jon, Grace, and Jeff discuss an article on the 100 questions for the future of ecology--from how to define and refine spatial scales, to addressing publication and the "final drawer" problem.</description>
-      <enclosure type="audio/mpeg" url="https://archive.org/download/MR001_201610/Major_Revisions_Episode001.mp3"/>
-      <itunes:image href="http://i1.sndcdn.com/artworks-000187879510-oaws0d-original.jpg"/>
+      <enclosure type="audio/mpeg" url="https://archive.org/download/MR001_201610/Major_Revisions_Episode001.mp3" length ="43320807"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
     </item>
 
 </channel>
