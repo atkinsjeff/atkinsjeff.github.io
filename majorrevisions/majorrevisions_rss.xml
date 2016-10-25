@@ -34,12 +34,8 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 		
-		<image>
-			<url>http://i.imgur.com/UswzUCU.png</url>
-			<title>	Major Revisions</title>
-			<width>144</width>
-			<height>144</height>
-		</image>
+		<image> <url>http://i.imgur.com/UswzUCU.png</url></image>
+		
 
 
     <item>
