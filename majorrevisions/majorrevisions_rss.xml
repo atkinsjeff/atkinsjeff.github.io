@@ -37,10 +37,23 @@
 		<itunes:keywords>ecology, science, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
-
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR005_201611</guid>
+      <title>MR005 (Most) Everything You Need to Know About Getting into Grad School (part one)</title>
+      <pubDate>Wed, 30 Oct 2016 16:30:57 +0000</pubDate>
+      <link>https://archive.org/details/MR005_201611</link>
+      <itunes:duration>00:57:32</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about how to apply to graduate school in the sciences . . . what to consider, where to apply, what the process entails, and what you should really expect.</itunes:summary>
+      <itunes:subtitle>Applying to grad school in the sciences…</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about how to apply to graduate school in the sciences . . . what to consider, where to apply, what the process entails, and what you should really expect. </description>
+      <enclosure type="audio/mpeg" url="https://archive.org/download/MR001_201610/Major_Revisions_Episode001.mp3" length ="43320807"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/289899138</guid>
-      <title>MR004 The Perils of Peer Review (part 2)</title>
+      <title>MR004 The Perils of Peer Review (part two)</title>
       <pubDate>Tue, 25 Oct 2016 14:21:22 +0000</pubDate>
       <link>https://soundcloud.com/user-106052317/mr004-the-perils-of-peer-review-part-2</link>
       <itunes:duration>00:57:03</itunes:duration>
