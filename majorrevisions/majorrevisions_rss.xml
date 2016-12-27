@@ -38,6 +38,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR007_201612</guid>
+      <title>MR007 Lasers!</title>
+      <pubDate>Wed, 27 Dec 2016 09:04:00 +0000</pubDate>
+      <link>https://archive.org/details/MR007_201612</link>
+      <itunes:duration>00:48:58</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about ecological uses of LiDAR (lasers!) and banter about the best holiday foods. </itunes:summary>
+      <itunes:subtitle>Ecological uses of lasers!…</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about ecological uses of LiDAR (lasers!) and banter about the best holiday foods.  </description>
+      <enclosure type="audio/mpeg" url="https://ia601505.us.archive.org/6/items/MR007_201612/MR007.mp3" length ="47012872"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR006MajorRevisionsGradSchoolTwo</guid>
       <title>MR006 (Most) Everything You Need to Know About Getting into Grad School (part two)</title>
       <pubDate>Wed, 29 Nov 2016 16:30:57 +0000</pubDate>
