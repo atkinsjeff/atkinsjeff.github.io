@@ -12,21 +12,26 @@
 		<title>
 			Major Revisions
 		</title>
-		
-		<link>http://majorrevisions.weebly.com/episodes</link>
+		<link>
+			http://majorrevisions.weebly.com/episodes
+		</link>
+		<description>
+			A podcast from three early career ecologists about science, academia, life, and other stuff.
+		</description>
+
 		<language>en-us</language>
 		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
-		<description>
-			A mostly-weekly podcast from three early career ecologists about science, academia, life, and other stuff.
-		</description>
-		<itunes:subtitle>A podcast from three early career ecologists abou…</itunes:subtitle>
-		<copyright>Copyright 2016</copyright>
-		<lastBuildDate>Mon, 24 Oct 2016 14:13:00 -0700</lastBuildDate>
-		<pubDate>Mon, 24 Oct 2016 14:13:00 -0700</pubDate>
+		<itunes:author> J. W. Atkins, J. Walter, G. Wilkinson </itunes:author>
+		
+		<itunes:subtitle>
+			A podcast from three early career ecologists abou…
+		</itunes:subtitle>
+		<copyright>Copyright 2017</copyright>
+		<lastBuildDate>Thu, 12 Jan 2017 14:20:00 -0700</lastBuildDate>
+		<pubDate>Thu, 12 Jan 2017 14:20:00 -0700</pubDate>
 		<image>
 		<title>Major Revisions</title>
 		<url>http://i.imgur.com/UswzUCU.png</url>
-		<link>http://majorrevisions.weebly.com/episodes</link>
 		</image>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<itunes:owner>
@@ -39,7 +44,7 @@
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR008_201701</guid>
-      <title>MR007 Lasers!</title>
+      <title>MR008 Science Policy for Beginners</title>
       <pubDate>Thu, Jan 2017 09:04:00 +0000</pubDate>
       <link>https://archive.org/details/MR008_201701</link>
       <itunes:duration>00:41:34</itunes:duration>
