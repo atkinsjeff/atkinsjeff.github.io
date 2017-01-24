@@ -27,8 +27,8 @@
 			A podcast from three early career ecologists abou…
 		</itunes:subtitle>
 		<copyright>Copyright 2017</copyright>
-		<lastBuildDate>Thu, 12 Jan 2017 14:20:00 -0700</lastBuildDate>
-		<pubDate>Thu, 12 Jan 2017 14:20:00 -0700</pubDate>
+		<lastBuildDate>Tue, 24 Jan 2017 14:20:00 -0700</lastBuildDate>
+		<pubDate>Tue, 24 Jan 2017 14:20:00 -0700</pubDate>
 		<image>
 		<title>Major Revisions</title>
 		<url>http://i.imgur.com/UswzUCU.png</url>
@@ -42,6 +42,20 @@
 		<itunes:keywords>ecology, science, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR008_201701</guid>
+      <title>MR009 Ecological Theory and You, a Love Story</title>
+      <pubDate>Tue, 24 Jan 2017 10:43:00 +0000</pubDate>
+      <link>https://archive.org/download/MR009_201701</link>
+      <itunes:duration>00:53:54</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff examine the meaning and importance of "ecological theory" from the perspectives of different research areas and degrees of interaction with theoretical ecology. The gang also give some highlights and favorite papers from 2016.</itunes:summary>
+      <itunes:subtitle>Ecological theory...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff examine the meaning and importance of "ecological theory" from the perspectives of different research areas and degrees of interaction with theoretical ecology. The gang also give some highlights and favorite papers from 2016.</description>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/11/items/MR009_201701/MR009.mp3" length ="51748618"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR008_201701</guid>
       <title>MR008 Science Policy for Beginners</title>
