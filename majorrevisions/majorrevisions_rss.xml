@@ -43,6 +43,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR010_201702</guid>
+      <title>MR010 Regime Shifts</title>
+      <pubDate>Fri, Feb 3 10:00:00 +0000</pubDate>
+      <link>https://archive.org/download/MR009_201701</link>
+      <itunes:duration>00:46:56</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff discuss regime shifts, state changes, basin attractors, and football pronostication.</itunes:summary>
+      <itunes:subtitle>Regime shifts...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff discuss regime shifts, state changes, basin attractors, and football pronostication.</description>
+      <enclosure type="audio/mpeg" url="https://ia601500.us.archive.org/21/items/MR010_201702/MR010.mp3" length ="45057308"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/download/MR009_201701</guid>
       <title>MR009 Ecological Theory and You, a Love Story</title>
       <pubDate>Tue, 24 Jan 2017 10:43:00 +0000</pubDate>
