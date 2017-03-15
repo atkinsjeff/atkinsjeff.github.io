@@ -24,7 +24,7 @@
 		<itunes:author> J. W. Atkins, J. Walter, G. Wilkinson </itunes:author>
 		
 		<itunes:subtitle>
-			A podcast from three early career ecologists abou…
+			A podcast from three early career ecologists…
 		</itunes:subtitle>
 		<copyright>Copyright 2017</copyright>
 		<lastBuildDate>Tue, 24 Jan 2017 14:20:00 -0700</lastBuildDate>
@@ -42,6 +42,20 @@
 		<itunes:keywords>ecology, science, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR013_201703</guid>
+      <title>MR013 March Mammal Madness</title>
+      <pubDate>Wed, 15 Mar 2017 10:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR013_201703</link>
+      <itunes:duration>00:53:35</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about the recent ASLO and Royal Society meetings they attended and then debate the March Mammal Madness bracket and English breakfast. Teaser...Marmite is gluten-free.</itunes:summary>
+      <itunes:subtitle>Let the March Mammal Madness begin!...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about the recent ASLO and Royal Society meetings they attended and then debate the March Mammal Madness bracket and English breakfast. Teaser...Marmite is gluten-free.</description>
+      <enclosure type="audio/mpeg" url="https://ia601504.us.archive.org/13/items/MR013_201703/MR013.mp3" length ="51443806"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR012_201703</guid>
       <title>MR012 Understudied Areas of Ecology and Rejection!</title>
