@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+        <title>Journal Club</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="author" content="Jeff Atkins" />
+        <meta name="KeyWords" content="biogeochemistry, watershed, science, shenandoah, west virginia, canaan valley, cvi, uva, virginia, red spruce, restoration,
+          environmental science, catchment, ecology, charlottesville" />
+        <meta name="Description" content="Personal website for Jeff" />
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+    </head>
+
+<body>
+<div id="section"> 
+
+<div id="pic">
+	 
+</div>
+<div id="research">
+
+
+      
+		<p>The proposal . . . an online journal club focused on recent papers in terrestrial ecology. </p>
+		
+		<p> A litany of ideas for discussion: </p>
+		
+		<ul>
+			<li> The first rule of journal club is you are free to talk about journal club and invite whoever you want to journal club</li>
+			<li> I have been using <a href = https://slack.com/> Slack </a> for an NSF RCN and for planning podcast stuff and I think it is a great platform for a journal club. 
+			Slack lets you have a "channel" for your team where you can have a conversation--you can add files in and anyone on your team can have access. I also like that
+			you can control your level of interaction. You can have it on your phone and have it constantly update you when people post, or you can login whenever you want. 
+			You get to decide how you want to do things. Also, the conversation is logged and it has hashtags and you can keep up with everything. Totally open to other ideas though. </li>
+			<li> I am thinking one article a week?</li>
+			<li> Discussion could occur during the course of the week on the article, more free form than an appointed time. I think engaged people would organically create the discussion. 
+			Similar to message boards back in the day (those are maybe still a thing?) </li>
+			<li> Did you know there is a Wikipedia entry for < a href = https://en.wikipedia.org/wiki/Journal_club> Journal Club </a>? </li>
+			<li> We could make a Twitter handle for this stuff too, I mean we should, right? </li>
+			
+			
+				
+
+
+	</div>
+</body>
+</html>
