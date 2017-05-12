@@ -43,6 +43,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR016_201705</guid>
+      <title>MR016  Motivation, Inspiration, and Application</title>
+      <pubDate>Fri, 12 May 2017 13:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR016_201705</link>
+      <itunes:duration>01:07:45</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about what motivates them as scientists  and discuss a Dynamic Ecology post from Jeremy Fox about basic vs. applied science. The gang also play a game of five questions.</itunes:summary>
+      <itunes:subtitle>why do you science the way you science?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about what motivates them as scientists  and discuss a Dynamic Ecology post from Jeremy Fox about basic vs. applied science. The gang also play a game of five questions. </description>
+      <enclosure type="audio/mpeg" url="https://ia601506.us.archive.org/27/items/MR016_201705/MR016.mp3" length ="58254990"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR014_201704</guid>
       <title>MR014  Everything You Ever Wanted to Know About Field Work</title>
       <pubDate>Wed, 10 Apr 2017 23:00:00 +0000</pubDate>
