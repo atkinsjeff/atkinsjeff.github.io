@@ -43,9 +43,23 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR017_201705</guid>
+      <title>MR016  Motivation, Inspiration, and Application</title>
+      <pubDate>Fri, 12 May 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR017_201705</link>
+      <itunes:duration>00:51:11</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Following up a conversation from Twitter about academic publishing, Jeff talks to special guest Terry McGlynn, Professor of Biology at Cal State Dominguez Hills, about everything from strategies in suggesting reviewers to how junior and senior scientists approach publishing differently.</itunes:summary>
+      <itunes:subtitle>An interview with Terry McGlynn...</itunes:subtitle>
+      <description>Following up a conversation from Twitter about academic publishing, Jeff talks to special guest Terry McGlynn, Professor of Biology at Cal State Dominguez Hills, about everything from strategies in suggesting reviewers to how junior and senior scientists approach publishing differently. </description>
+      <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/26/items/MR017_201705/MR017.mp3" length ="49145664"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR016_201705</guid>
       <title>MR016  Motivation, Inspiration, and Application</title>
-      <pubDate>Fri, 12 May 2017 13:00:00 +0000</pubDate>
+      <pubDate>Fri, 12 May 2017 12:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR016_201705</link>
       <itunes:duration>01:00:40</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
