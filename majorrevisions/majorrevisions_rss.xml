@@ -43,6 +43,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR018_201706</guid>
+      <title>MR018 On the Job Market (Part 1 of n)</title>
+      <pubDate> Mon, 05 Jun 2017 15:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR018_201706</link>
+      <itunes:duration>01:02:45</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia.</itunes:summary>
+      <itunes:subtitle>On the job market...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia. </description>
+      <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/28/items/MR018_201706/MR018.mp3" length ="60255007 "/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR017_201705</guid>
       <title>MR017 An Interview with Terry McGlynn</title>
       <pubDate> Wed, 17 May 2017 15:00:00 +0000</pubDate>
