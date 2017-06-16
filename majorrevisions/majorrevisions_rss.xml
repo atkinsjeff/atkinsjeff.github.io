@@ -5,8 +5,6 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 >
-
-
 	<channel>
 		<atom:link href="http://atkinsjeff.github.io/majorrevisions/majorrevisions_rss.xml" rel="self" type="application/rss+xml"/>
 		<title>
@@ -42,6 +40,20 @@
 		<itunes:keywords>ecology, science, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR019_201706</guid>
+      <title>MR019 Grants Rule Everything Around Me</title>
+      <pubDate> Fri, 16 Jun 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR019_201706</link>
+      <itunes:duration>01:00:02</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace just got back from an NSF conference on grants and gives the low-down to the gang and we talk different kinds of grants, application strategies, and also alternative funding sources. The gang also pours one out for DDIG.</itunes:summary>
+      <itunes:subtitle>Grant funding!...</itunes:subtitle>
+      <description>Grace just got back from an NSF conference on grants and gives the low-down to the gang and we talk different kinds of grants, application strategies, and also alternative funding sources. The gang also pours one out for DDIG.</description>
+      <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/15/items/MR019_201706/MR019.mp3" length ="57642189"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR018_201706</guid>
       <title>MR018 On the Job Market (Part 1 of n)</title>
