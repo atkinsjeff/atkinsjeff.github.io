@@ -41,15 +41,29 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR020_201706</guid>
+      <title>MR020 Lab Girl!</title>
+      <pubDate>Fri, 26 Jun 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR020_201706</link>
+      <itunes:duration>00:44:51</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff *finally* get around to talk about Hope Jahren's book "Lab Girl" and what it meant to them as ecologists and early career scientists. </itunes:summary>
+      <itunes:subtitle>Lab Girl...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff *finally* get around to talk about Hope Jahren's book "Lab Girl" and what it meant to them as ecologists and early career scientists. </description>
+      <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/27/items/MR020_201706/MR020.mp3" length ="43057340"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item> 
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR019_201706</guid>
       <title>MR019 Grants Rule Everything Around Me</title>
-      <pubDate> Fri, 16 Jun 2017 12:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Jun 2017 12:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR019_201706</link>
       <itunes:duration>01:00:02</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Grace just got back from an NSF conference on grants and gives the low-down to the gang and we talk different kinds of grants, application strategies, and also alternative funding sources. The gang also pours one out for DDIG.</itunes:summary>
-      <itunes:subtitle>Grant funding!...</itunes:subtitle>
+      <itunes:subtitle>Grant funding...</itunes:subtitle>
       <description>Grace just got back from an NSF conference on grants and gives the low-down to the gang and we talk different kinds of grants, application strategies, and also alternative funding sources. The gang also pours one out for DDIG.</description>
       <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/15/items/MR019_201706/MR019.mp3" length ="57642189"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
@@ -57,21 +71,21 @@
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR018_201706</guid>
       <title>MR018 On the Job Market (Part 1 of n)</title>
-      <pubDate> Mon, 05 Jun 2017 15:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Jun 2017 15:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR018_201706</link>
       <itunes:duration>01:02:45</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia.</itunes:summary>
       <itunes:subtitle>On the job market...</itunes:subtitle>
-      <description>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia. </description>
+      <description>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia.</description>
       <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/28/items/MR018_201706/MR018.mp3" length ="60255007"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
     </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR017_201705</guid>
       <title>MR017 An Interview with Terry McGlynn</title>
-      <pubDate> Wed, 17 May 2017 15:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 May 2017 15:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR017_201705</link>
       <itunes:duration>00:51:11</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
