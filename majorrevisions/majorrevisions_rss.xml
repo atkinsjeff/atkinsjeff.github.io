@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR021_201707</guid>
+      <title>MR020 Work Life Balance</title>
+      <pubDate>Sat, 23 2017 09:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR021_201707</link>
+      <itunes:duration>01:07:13</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff discuss their own trials and tribulations of trying to make a career in the sciences jive with a home life that approaches normality. Jeff pines about the early summer flailing nature of one member of the Red Sox pitching staff and the gang talk dog fashion shows. And science. Some science too.</itunes:summary>
+      <itunes:subtitle>Balancing Work and Life?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff discuss their own trials and tribulations of trying to make a career in the sciences jive with a home life that approaches normality. Jeff pines about the early summer flailing nature of one member of the Red Sox pitching staff and the gang talk dog fashion shows. And science. Some science too.</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/25/items/MR021_201707/MR021.mp3" length ="64532480"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item> 
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR020_201706</guid>
       <title>MR020 Lab Girl!</title>
       <pubDate>Fri, 26 Jun 2017 14:00:00 +0000</pubDate>
@@ -48,7 +62,7 @@
       <itunes:duration>00:44:51</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Grace, Jon, and Jeff *finally* get around to talk about Hope Jahren's book "Lab Girl" and what it meant to them as ecologists and early career scientists. </itunes:summary>
+      <itunes:summary>Grace, Jon, and Jeff *finally* get around to talking about Hope Jahren's book "Lab Girl" and what it means to them as ecologists and early career scientists. </itunes:summary>
       <itunes:subtitle>Lab Girl...</itunes:subtitle>
       <description>Grace, Jon, and Jeff *finally* get around to talk about Hope Jahren's book "Lab Girl" and what it meant to them as ecologists and early career scientists. </description>
       <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/27/items/MR020_201706/MR020.mp3" length ="43057340"/>
