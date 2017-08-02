@@ -1,4 +1,4 @@
-<rss version="2.0"
+﻿<rss version="2.0"
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
@@ -43,7 +43,7 @@
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR021_201707</guid>
       <title>MR021 Work Life Balance</title>
-      <pubDate>Sat, 23 2017 09:00:00 +0000</pubDate>
+      <pubDate>Sat, Jul 23 2017 09:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR021_201707</link>
       <itunes:duration>01:07:13</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
