@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR022_201708</guid>
+      <title>MR022 The Intermediate Disturbance Hypothesis</title>
+      <pubDate>Fri, Aug 4 2017 13:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR022_201708</link>
+      <itunes:duration>00:55:40</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk Intermediate Disturbance Hypothesis (IDH), the idea that diversity peaks at "intermediate" levels of disturbance. We also preview ESA 2017 and ponder the relationship between food quality and the amount of taxidermy in North Wood's bars.</itunes:summary>
+      <itunes:subtitle>Intermediate Disturbance Hypothesis...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk Intermediate Disturbance Hypothesis (IDH), the idea that diversity peaks at "intermediate" levels of disturbance. We also preview ESA 2017 and ponder the relationship between food quality and the amount of taxidermy in North Wood's bars.</description>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/2/items/MR022_201708/MR022.mp3" length ="53441909"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR021_201707</guid>
       <title>MR021 Work Life Balance</title>
       <pubDate>Sat, Jul 23 2017 09:00:00 +0000</pubDate>
