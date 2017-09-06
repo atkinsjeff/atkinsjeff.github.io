@@ -54,7 +54,8 @@
       <enclosure type="audio/mpeg" url="https://ia801502.us.archive.org/17/items/MR023_201709/MR023.mp3" length ="60911899"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
     </item>
-	<item>  
+	<item> 
+      <guid isPermaLink="false">https://archive.org/details/MR022_201708</guid>
 	  <title>MR022 The Intermediate Disturbance Hypothesis</title>
       <pubDate>Fri, Aug 4 2017 13:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR022_201708</link>
