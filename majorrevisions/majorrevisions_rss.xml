@@ -41,8 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
 	<item>
-      <guid isPermaLink="false">https://archive.org/details/MR022_201708</guid>
-      <title>MR022 The Intermediate Disturbance Hypothesis</title>
+      <guid isPermaLink="false">https://archive.org/details/MR023_201709</guid>
+      <title>MR023 Throwin' Shade</title>
+      <pubDate>Wed, Sep 6 2017 13:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR023_201709</link>
+      <itunes:duration>01:03:23</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In our first banter-only episode, Grace, Jon, and Jeff talk about the eclipse, the comings and goings of the Ecological Society of America 2017 meeting in Portland, pre-registering ecology articles and studies, and the question of censorship of science.</itunes:summary>
+      <itunes:subtitle>Total Ecology of the Heart...</itunes:subtitle>
+      <description>In our first banter-only episode, Grace, Jon, and Jeff talk about the eclipse, the comings and goings of the Ecological Society of America 2017 meeting in Portland, pre-registering ecology articles and studies, and the question of censorship of science.</description>
+      <enclosure type="audio/mpeg" url="https://ia801502.us.archive.org/17/items/MR023_201709/MR023.mp3" length ="60911899"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	  <title>MR022 The Intermediate Disturbance Hypothesis</title>
       <pubDate>Fri, Aug 4 2017 13:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR022_201708</link>
       <itunes:duration>00:55:40</itunes:duration>
