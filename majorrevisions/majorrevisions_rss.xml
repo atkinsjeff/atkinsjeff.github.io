@@ -39,7 +39,21 @@
 		<itunes:category text="Science &amp; Medicine"/>
 		<itunes:keywords>science, ecology, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:image href="http://i.imgur.com/UswzUCU.png" />
+		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR024_201709</guid>
+      <title>MR024 Making the Most Out of Grad School</title>
+      <pubDate>Fri, 15 Sep 2017 13:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR024_201709</link>
+      <itunes:duration>00:59:14</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about how to get the most out of grad school including setting priorities, making friends with the smart people, thinking about it as a career, and whether classes "really" matter.</itunes:summary>
+      <itunes:subtitle>Making the most out of grad school...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about how to get the most out of grad school including setting priorities, making friends with the smart people, thinking about it as a career, and whether classes "really" matter.</description>
+      <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/22/items/MR024_201709/MR024.mp3" length ="56865632"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR023_201709</guid>
       <title>MR023 Throwin' Shade</title>
