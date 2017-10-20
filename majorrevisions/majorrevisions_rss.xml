@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR025_201710</guid>
+      <title>MR025 Difficult Conversations</title>
+      <pubDate>Fri, 20 Oct 2017 08:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR025_201710</link>
+      <itunes:duration>01:07:42</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff do a deep dive into having difficult conversations in the classroom around the current political and social climate and how to respond to situations in a thoughtful, and supportive manner. </itunes:summary>
+      <itunes:subtitle>Difficult conversations...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff do a deep dive into having difficult conversations in the classroom around the current political and social climate and how to respond to situations in a thoughtful, and supportive manner. </description>
+      <enclosure type="audio/mpeg" url="https://ia601505.us.archive.org/9/items/MR025_201710/MR025.mp3" length ="64997637"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR024_201709</guid>
       <title>MR024 Making the Most Out of Grad School</title>
       <pubDate>Fri, 15 Sep 2017 12:00:00 +0000</pubDate>
