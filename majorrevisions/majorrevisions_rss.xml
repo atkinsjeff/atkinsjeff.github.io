@@ -40,6 +40,23 @@
 		<itunes:keywords>science, ecology, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR029_201711</guid>
+      <title>MR029 The 100 Papers Every Ecologist Should Read?</title>
+      <pubDate>Mon, 27 Nov 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR029_201711</link>
+      <itunes:duration>00:33:01</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff jump right into the fray this week to talk about a recent, divisive article in Nature Ecology and Evolution about the papers every ecologist should be reading.
+		</itunes:summary>
+      <itunes:subtitle>100 papers...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff jump right into the fray this week to talk about a recent, divisive article in Nature Ecology and Evolution about the papers every ecologist should be reading.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/27/items/MR029_201711/MR029.mp3" length ="23775855"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>		
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR028_201711</guid>
       <title>MR028 The Impact Factor Draft</title>
