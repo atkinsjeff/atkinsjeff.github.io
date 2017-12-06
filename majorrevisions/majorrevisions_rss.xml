@@ -37,10 +37,25 @@
 			<itunes:email>majorrevisionsshow@gmail.com (J. Atkins)</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Science &amp; Medicine"/>
-		<itunes:keywords>science, ecology, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
+		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
-
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR030_201712</guid>
+      <title>MR030 How To Do Ecology?</title>
+      <pubDate>Wed, 6 Dec 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR030_201712</link>
+      <itunes:duration>01:05:54</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff are back in book club this episode, talking about the book "How to do Ecology." The gang also talk about how academics and scientists spends their holidays.
+		</itunes:summary>
+      <itunes:subtitle>How to do ecology...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff are back in book club this episode, talking about the book "How to do Ecology." The gang also talk about how academics and scientists spends their holidays.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801501.us.archive.org/9/items/MR030_201712/MR030.mp3" length ="47460317"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR029_201711</guid>
       <title>MR029 The 100 Papers Every Ecologist Should Read?</title>
