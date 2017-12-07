@@ -1,0 +1,150 @@
+---
+  title: "CV"
+---
+
+[Full CV in pdf format](CV_Atkins_Jeff.pdf)
+
+
+###EDUCATION
+2016 	Doctor of Philosophy, Environmental Sciences, University of Virginia, Charlottesville, VA 	
+2004	Bachelor of Arts, English, Western Carolina University, Cullowhee, NC
+
+###APPOINTMENTS
+Postdoctoral Fellow, Virginia Commonwealth University, Department of Biology
+Visiting Scholar, University of Virginia, Department of Environmental Sciences
+
+###PUBLICATIONS
+Atkins, JW, HE Epstein, DL Welsch (2017) “Seasonal and inter-annual variability in litter decomposition and nitrogen availability in a mid-Appalachian watershed.” Ecosphere 8 (9). DOI: 10.1002/ecs2.1908
+
+JA Walter, JC Neblett, JW Atkins, HE Epstein (2017) “Regional and watershed scale analysis of current and future suitable habitat for red spruce in the central Appalachian Mountains.” Plant Ecology 218 (3), 305-316. DOI: 10.1007/s11258-016-0687-5
+
+Atkins, JW, HE Epstein, DL Welsch (2015) “Vegetation and elevation influence the timing and magnitude of soil CO2 efflux in a humid, topographically complex watershed.” Biogeosciences, 12 (10), 2975-2994.  DOI:  10.5194/bg-12-2975-2015
+
+###PUBLICATIONS (In Review)
+Atkins, JW, G Bohrer, RT Fahey, BH Hardiman, T Morin, A Stovall, N Zimmerman, CM Gough “ Quantifying forest and canopy structural complexity metrics from terrestrial LiDAR data using the forestr R package” In review at Methods of Ecology and Evolution
+
+Atkins, JW, RT Fahey, BH Hardiman, CM Gough “Canopy structural complexity predicts forest canopy light absorption at plot to sub-continental scales” In review at JGR-Biogeosciences
+
+Atkins, JW, HE Epstein, DL Welsch “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.” In review at Ecosphere
+
+Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik “Shifting conceptions of complexity in forest management and siliviculture,” In review at Forest Ecology and Management
+
+INVITED TALKS
+*”Carbon cycling in a humid watershed in West Virginia”, 2016 Biology Seminar Series, Virginia Commonwealth University
+*”Where you are on the land matters . . . at least some times,” 2016 Ecological Society of America Annual Meeting in Ft. Lauderdale, FL special session “Up-Goer Five Challenge:  Using Common Language to Communicate Science”
+
+PRESENTATIONS
+JW Atkins, RT Fahey, CM Gough, BS Hardiman (2017) “Using portable canopy LiDAR (PCL) to measure canopy structural complexity:  forest structure-function relationships at the continental scale” The Royal Society, The Terrestrial Laser Scanning Revolution in Forest Ecology (Poster)
+JW Atkins, RT Fahey, CM Gough, BS Hardiman (2016) “Canopy structural complexity as a continental predictor of primary production: Using NEON to transform understanding of forest structure-function” 2016 American Geophysical Union, abstract #B51I-07 (Oral presentation)
+Hardiman, BS, JW Atkins, K Dahlin, RT Fahey, CM Gough (2016) “Canopy structural complexity influences forest canopy reflectance: linking terrestrial LiDAR with Landsat observations” 2016 American Geophysical Union Fall Meeting, abstract #B53I-0624 
+Fahey, RT, J Tallant, CM Gough, BS Hardiman, JW Atkins, CM Scheuermann (2016) “Comparison of Aerial and Terrestrial Remote Sensing Techniques for Quantifying Forest Canopy Structural Complexity and Estimating Net Primary Productivity” 2016 American Geophysical Union Fall Meeting, abstract #B53J-07 
+* Atkins, JW, CM Gough, P Buckaveckas, M Beck (2016) “Canopy complexity and chronic nitrogen amendments constrain the primary production of a Mid-Atlantic forest: A long-term study at the nexus of environmental and ecological change” Ecological Society of America Annual Meeting in Ft. Lauderdale, FL (Oral presentation)
+* Gough, CM, RT Fahey, BS Hardiman, CM Scheuermann, JW Atkins (2016) “(Why) does physical complexity matter?:  Forest physical structure and carbon cycling,” INTERface workshop, 2016 
+* Atkins, JW, HE Epstein, DL Welsch (2015) “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices,” American Geophysical Union Fall Meeting 2015, abstract #B53C-0572 (Poster)
+* Atkins, JW, HE Epstein, DL Welsch (2015) “Decomposition varies spatially and temporally by vegetation cover and elevation in a West Virginia watershed,” Ecological Society of America Annual Meeting, Baltimore, MD (Poster)
+* Atkins, JW, AM Riscassi (2015) “Impact of episodic acidification events on brook trout in Shenandoah National Park,” Robert J. Huskey Research Exhibition, University of Virginia (Poster)
+* Atkins, JW, HE Epstein, DL Welsch (2014) “Carbon dioxide and methane fluxes from the transitional zone of a Virginia ephemeral wetland,” American Geophysical Union Fall Meeting 2014, abstract #B13D-0210 (Poster)
+* Ko, SM, HE Epstein, JW Atkins (2014) “Effects of elevation and vegetation interactions on the organic layer in Weimer Run watershed, West Virginia,” Enviroday – Environmental Sciences Student Research Symposium, University of Virginia. (Student poster)
+* Neblett, JC, JA Walter, JW Atkins, HE Epstein (2014) “Red spruce in the Weimer Run watershed, WV:  suitability under current conditions,” Enviroday – Environmental Sciences Student Research Symposium, University of Virginia. (Student poster)
+* Atkins, JW, HE Epstein, DL Welsch (2013) “Impacts of vegetation heterogeneity and landscape position on carbon and water cycling in a complex, humid watershed in West Virginia,” American Geophysical Union Fall Meeting 2013, abstract #B52A-06 (Oral presentation)
+* Atkins, JW, DL Welsch, HE Epstein (2013) “Inter-annual variation in precipitation affects the spatial heterogeneity of soil CO2 efflux in a West Virginia watershed,” Ecological Society of America Annual Meeting, Minneapolis, MN. (Poster)
+* Atkins, JW (2013) “Implications of fundamental state changes on red spruce restoration attempts in the central Appalachians,” Robert J. Huskey Research Exhibition, University of Virginia. (Oral Presentation)
+* Atkins JW, DL Welsch, HE Epstein (2013) “Inter-annual variation in precipitation affects the spatial heterogeneity of soil CO2 efflux in a West Virginia watershed,” Penn State—Environmental Chemistry and Microbiology Student Symposium. (Oral presentation)
+* Atkins JW, DL Welsch, HE Epstein (2013) “How the lateral redistribution of soil moisture within a humid, temperate watershed affects carbon cycling,” Enviroday – Environmental Sciences Student Research Symposium, University of Virginia. (Oral presentation)
+* Atkins JW, HE Epstein, DL Welsch (2012) “Mechanisms influencing surface soil CO2 efflux in respect to elevation and vegetation gradients in a complex watershed,” The Fourth Annual FREC Graduate Research Symposium, Department of Forest Resources and Environmental Conservation, Virginia Tech. (Oral presentation)
+* Atkins JW, HE Epstein, DL Welsch (2012) “Evaluating the controls on carbon and water cycling in complex terrain:  what goes in, must come out,” Robert J. Huskey Research Exhibition, University of Virginia. (Poster)
+* Atkins JW, HE Epstein, DL Welsch (2012) “Evaluating the effects of complex terrain on carbon and water cycling in a forested watershed in West Virginia,” Enviroday – Environmental Sciences Student Research Symposium, University of Virginia. (Poster)
+* Atkins JW, HE Epstein, DL Welsch (2011) “Mechanisms influencing surface soil CO2 efflux in respect to elevation and vegetation gradients in a complex watershed,” American Geophysical Union Fall Meeting 2011, abstract #B33F-0525 (Poster)
+* Atkins JW, HE Epstein, DL Welsch (2011) “Carbon and water cycling in a high-altitude watershed in West Virginia,” Enviroday – Environmental Sciences Student Research Symposium, University of Virginia (Poster)
+* Atkins JW (2003) “Joseph Meeker and John Steinbeck:  the importance of place in Cannery Row,” National Conference on Undergraduate Research, University of Utah (Oral presentation)
+
+AWARDS AND RECOGNITIONS
+2015 Graduate Student Association Award, Department of Environmental Sciences, University of Virginia
+2015 First place presentation, Biology and Biomedical Sciences, Robert J. Huskey Research Exhibition
+2014 Trout Unlimited Award, Trout Unlimited Virginia Area Council
+2012 Tomorrow’s Professor Today, Teaching Resource Center, University of Virginia
+2012 Third place presentation, Physical Science and Math, Robert J. Huskey Research Exhibition
+1999 Founder’s Scholarship, Honors College, Western Carolina University
+
+
+PROFESSIONAL SERVICE AND EXPERIENCE
+* Peer Reviewer:  Agricultural and Forest Meteorology, AoB Plants, Biogeosciences, Global Change Biology, Forest Ecology and Management, JGR-Biogeosciences, Ecosphere
+* Co-Chair and Moderator:  Ecological Society of America, “Cutting-Edge Remote Sensing Applications in Ecology: Spanning Scales, Sensors, and Ecosystems” (2018)
+* Primary Session Convener:  American Geophysical Union Fall Meeting, “Impacts to Water and Nutrient Cycles in Ecosystems Following Disturbance” (2017)
+* Co-Chair:  NACP/Ameriflux PI 2017 Breakout Session:  “Translational Ecology for Terrestrial Carbon Management” (2017)
+* Contributor:  Belowground Carbon Methods Workshop (https://youtu.be/Ml09tfGSSUY) (2017) 
+* Primary Session Convener:  American Geophysical Union Fall Meeting:  “Towards better understanding of climate variability:  from ecosystem processes to agricultural adaptation and decision-making” (2015 – 2017)
+* Mentor:  Planting Science (2015-2016)
+* Facilitator:  University of Virginia Teaching Resource Center’s August Teaching Workshop seminars “The First Days of Class,”  and “Troubleshooting Teaching Challenges” (2014, 2015)
+* Facilitator: University of Virginia Center for Teaching Excellence Foundations of Scholarly Teaching Seminar (2015)
+* Graduate Research Fellow, Blandy Experimental Farm (2014)
+* Student Volunteer:  American Geophysical Union Fall Meeting (2013)
+* Session Presider:  Ecological Society of America Annual Meeting (2013)
+* Session Moderator:  Enviroday – Environmental Sciences Student Research Symposium, University of Virginia (2013)
+* Coldwater Conservation Research Initiative, Waynesboro, Virginia (2012)
+* “Dr. Doughnuts,” Graduate Student Association, University of Virginia (2011 – 2015)
+
+PROFESSIONAL MEMBERSHIPS
+* American Geophysical Union
+* Ecological Society of America
+
+PROFESSIONAL DEVELOPMENT
+* NEON Data Institute, 2016
+* Potsdam Flux Course, 2015 
+* International Geosphere-Biosphere Program (IGBP) Future Earth Early Career Workshop, 2015 
+* Tomorrow’s Professor Today; Teaching Resource Center, University of Virginia, 2013-15
+* Conducting Open Science using R and DataONE: A Hands-on Primer (ESA 2013)
+* Alan Alda Communicating Science Workshop, 2015
+* Data Management Boot Camp (University of Virginia)
+
+ADDITIONAL RESEARCH EXPERIENCE 
+2011 – Pres	Field Scientist, Shenandoah Watershed Study-Virginia Trout Stream Sensitivity Study (SWAS-VTSSS)
+2012 	Western Atlantic Climate Study (WACS), Seawater Aerosol Generator laboratory, NOAA Ron Brown, Research Assistant 
+2011 – Pres	National Atmospheric Deposition Program (NADP), Station VA00
+
+SCIENCE COMMUNICATION AND OUTREACH
+2017 – Pres	Co-Host of Major Revisions, a science and ecology-based podcast (>500 downloads/listens per episode)
+2015 – Pres 	PLOS Ecology Community Site Editor and Contributor (Views range from 1K to 100K per article)
+
+OTHER EXPERIENCE
+2017 – Pres	City of Charlottesville Water Resources Protection and Advisory Committee Board Member
+2015		Environmental Science Instructor, 4 Star Summer Camps
+2008 – 2010 	Qualified Mental Health Professional, Jackson County Psychological Services, Sylva, NC.
+2006 – 2008 	Associate Mental Health Professional, Jackson County Psychological Services, Sylva, NC.
+2004 – 2006 	Direct Care Worker, Meridian Behavioral Health Services, Sylva, NC.
+2003 – 2004 	Features Editor, Copy Editor, Writer, Western Carolinian/WC Newsmagazine, Western Carolina University, Cullowhee, NC.
+2002 – 2004 	Editor, NOMAD literary magazine, Western Carolina University.
+
+PRESS
+*”Under the Canopy:  Measuring Light,” Virginia Commonwealth University Nature Walks
+https://vcu.exposure.co/nature-walks
+* “Carbon Fluxes from Mountainous Soil,” Environmental Sciences at the University of Virginia 2013-14 Annual Report http://www.evsc.virginia.edu/wp-content/uploads/UVAES_2015annualreport_lores.pdf
+* “U.Va.’s Long-Term Mountain Stream Studies Reveal Changing Conditions, “ UVA Today http://news.virginia.edu/content/uva-s-long-term-mountain-stream-studies-reveal-changing-conditions
+
+COMMUNITY SERVICE
+* Judge, 32nd Virginia Piedmont Regional Science Fair (Environmental Management, NOAA “Taking the Pulse of the Environment Award,” and Association of Women Geoscientists, “Women in Geoscience Award”) (2013, 2017)
+* Garden Committee, Venable Elementary School, Charlottesville, Virginia (2012 – 2013)
+* Youth Soccer Coach (U8 and U10), Soccer Organization of Charlottesville/Albemarle (2014 – 2016)
+
+STUDENT SUPERVISION	
+MS Committee
+Michael Beck (VCU, M.S. 2017) “Nitrogen cycling at the VCU Rice Rivers Center”	
+
+Undergraduate Mentorship
+Mark Kreider (REU program University of Michigan Biological Station, Goshen College, 2017), “Effects  
+of biological and physical complexity on carbon storage in mixed and single-species dominated forests”
+Molly Siebers (UVA, B.S. Student, 2015), “Rhododendron expansion and change in winter NDVI in the Weimer Run watershed”
+Emily Salle (UVA, B.S. Student, 2015), “Spatial variation in methane fluxes from an ephemeral wetland using soil incubations”
+Henry Hoffman (UVA, B.S. Student, 2014), “Effects of episodic storm events on brook trout in SNP”
+Jorge Ruiz (REU program Blandy Experimental Farm, University of Puerto Rico-Mayaguez, 2014)  “Spatio-temporality of the earthworm community in Lake Arnold”
+Sang Mee Ko (UVA, B.A. Student, 2014), Thesis: “Effects of elevation and vegetation interactions on organic layer in Weimer Run Watershed, West Virginia”
+Jessica Neblett (UVA, B.A. Student, 2014), Thesis: “Red spruce:  current and future suitability in the Weimer Run watershed, West Virginia,” (Co-Mentored with Jon Walter).
+Sarah Friedlander (UVA, B.A. Student, 2013), Thesis:  “Variable flow relationships with Cl- concentrations in four mountain catchments,” (Co-Mentored with Rick Webb).
+
+DATA AND SOFTWARE PRODUCTS
+* forestr: an R package for deriving canopy structural complexity metrics from terrestrial LiDAR:   https://github.com/atkinsjeff/forestr
+* github.com/atkinsjeff 
+* figshare.com/authors/Jeff_Atkins/665669
+
+SKILLS AND TRAINING
+* Software and programming:  R and R Studio, ArcGIS, Matlab, Campbell Scientific Loggernet and CRBasic, and SAS

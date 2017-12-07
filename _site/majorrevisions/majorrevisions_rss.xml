@@ -1,0 +1,463 @@
+﻿<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+>
+	<channel>
+		<atom:link href="http://atkinsjeff.github.io/majorrevisions/majorrevisions_rss.xml" rel="self" type="application/rss+xml"/>
+		<title>
+			Major Revisions
+		</title>
+		<link>
+			http://majorrevisions.weebly.com/episodes
+		</link>
+		<description>
+			A podcast from three early career ecologists about science, academia, life, and other stuff.
+		</description>
+
+		<language>en-us</language>
+		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
+		<itunes:author> J. W. Atkins, J. Walter, G. Wilkinson </itunes:author>
+		
+		<itunes:subtitle>
+			A podcast from three early career ecologists…
+		</itunes:subtitle>
+		<copyright>Copyright 2017</copyright>
+		<lastBuildDate>Tue, 24 Jan 2017 14:20:00 -0700</lastBuildDate>
+		<pubDate>Tue, 24 Jan 2017 14:20:00 -0700</pubDate>
+		<image>
+		<title>Major Revisions</title>
+		<url>http://i.imgur.com/UswzUCU.png</url>
+		</image>
+		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+		<itunes:owner>
+			<itunes:name>Major Revisions</itunes:name>
+			<itunes:email>majorrevisionsshow@gmail.com (J. Atkins)</itunes:email>
+		</itunes:owner>
+		<itunes:category text="Science &amp; Medicine"/>
+		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR030_201712</guid>
+      <title>MR030 How To Do Ecology?</title>
+      <pubDate>Wed, 6 Dec 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR030_201712</link>
+      <itunes:duration>01:05:54</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff are back in book club this episode, talking about the book "How to do Ecology." The gang also talk about how academics and scientists spends their holidays.
+		</itunes:summary>
+      <itunes:subtitle>How to do ecology...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff are back in book club this episode, talking about the book "How to do Ecology." The gang also talk about how academics and scientists spends their holidays.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801501.us.archive.org/9/items/MR030_201712/MR030.mp3" length ="47460317"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR029_201711</guid>
+      <title>MR029 The 100 Papers Every Ecologist Should Read?</title>
+      <pubDate>Mon, 27 Nov 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR029_201711</link>
+      <itunes:duration>00:33:01</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff jump right into the fray this week to talk about a recent, divisive article in Nature Ecology and Evolution about the papers every ecologist should be reading.
+		</itunes:summary>
+      <itunes:subtitle>100 papers...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff jump right into the fray this week to talk about a recent, divisive article in Nature Ecology and Evolution about the papers every ecologist should be reading.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801505.us.archive.org/2/items/MR029_201711/MR029.mp3" length ="23775855"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>		
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR028_201711</guid>
+      <title>MR028 The Impact Factor Draft</title>
+      <pubDate>Tue, 21 Nov 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR028_201711</link>
+      <itunes:duration>00:58:13</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>It is time for the inaugural Impact Factor Draft! Grace, Jon, and Jeff pick journals based on how they think the IF will change next year. Really it is just an excuse to talk about the landscape of ecological journals.
+		</itunes:summary>
+      <itunes:subtitle>Inaugural Impact Factor Draft...</itunes:subtitle>
+      <description>It is time for the inaugural Impact Factor Draft! Grace, Jon, and Jeff pick journals based on how they think the IF will change next year. Really it is just an excuse to talk about the landscape of ecological journals.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/27/items/MR028_201711/MR028.mp3" length ="41925087"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR027_201711</guid>
+      <title>MR027 One Year Anniversary</title>
+      <pubDate>Fri, 17 Nov 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR027_201711</link>
+      <itunes:duration>01:08:16</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff revisit the first year of the podcast, including the most and least popular episodes--and we look forward to the future.
+		</itunes:summary>
+      <itunes:subtitle>Our first year, woohoo!...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff revisit the first year of the podcast, including the most and least popular episodes--and we look forward to the future.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/34/items/MR027_201711/MR_027.mp3" length ="49159019"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR026_201710</guid>
+      <title>MR026 Carbon, carbon, carbon!</title>
+      <pubDate>Fri, 20 Oct 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR026_201710</link>
+      <itunes:duration>01:05:34</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace and Jeff, sans Jon, talk about some of the latest in carbon cycling research--terrestrial and aquatic! We also talk Jon's recent wedding, examine a new paper in Science focusing on the tropics, a great piece on science blogging, and talk about the podcast's upcoming anniversary. Oh, and cow farts. Lots about cow farts.
+</itunes:summary>
+      <itunes:subtitle>We are talking about carbon...</itunes:subtitle>
+      <description>Grace and Jeff, sans Jon, talk about some of the latest in carbon cycling research--terrestrial and aquatic! We also talk Jon's recent wedding, examine a new paper in Science focusing on the tropics, a great piece on science blogging, and talk about the podcast's upcoming anniversary. Oh, and cow farts. Lots about cow farts.
+</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/34/items/MR026_201710/MR026.mp3" length ="62947665"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR025_201710</guid>
+      <title>MR025 Difficult Conversations</title>
+      <pubDate>Fri, 20 Oct 2017 08:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR025_201710</link>
+      <itunes:duration>01:07:42</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff do a deep dive into having difficult conversations in the classroom around the current political and social climate and how to respond to situations in a thoughtful, and supportive manner. </itunes:summary>
+      <itunes:subtitle>Difficult conversations...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff do a deep dive into having difficult conversations in the classroom around the current political and social climate and how to respond to situations in a thoughtful, and supportive manner. </description>
+      <enclosure type="audio/mpeg" url="https://ia601505.us.archive.org/9/items/MR025_201710/MR025.mp3" length ="64997637"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR024_201709</guid>
+      <title>MR024 Making the Most Out of Grad School</title>
+      <pubDate>Fri, 15 Sep 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR024_201709</link>
+      <itunes:duration>00:59:14</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about how to get the most out of grad school including setting priorities, making friends with the smart people, thinking about it as a career, and whether classes "really" matter.</itunes:summary>
+      <itunes:subtitle>Making the most out of grad school...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about how to get the most out of grad school including setting priorities, making friends with the smart people, thinking about it as a career, and whether classes "really" matter.</description>
+      <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/22/items/MR024_201709/MR024.mp3" length ="56865632"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR023_201709</guid>
+      <title>MR023 Throwin' Shade</title>
+      <pubDate>Wed, 6 Sep 2017 13:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR023_201709</link>
+      <itunes:duration>01:03:23</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In our first banter-only episode, Grace, Jon, and Jeff talk about the eclipse, the comings and goings of the Ecological Society of America 2017 meeting in Portland, pre-registering ecology articles and studies, and the question of censorship of science.</itunes:summary>
+      <itunes:subtitle>Total Ecology of the Heart...</itunes:subtitle>
+      <description>In our first banter-only episode, Grace, Jon, and Jeff talk about the eclipse, the comings and goings of the Ecological Society of America 2017 meeting in Portland, pre-registering ecology articles and studies, and the question of censorship of science.</description>
+      <enclosure type="audio/mpeg" url="https://ia801502.us.archive.org/17/items/MR023_201709/MR023.mp3" length ="60911899"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item> 
+      <guid isPermaLink="false">https://archive.org/details/MR022_201708</guid>
+	  <title>MR022 The Intermediate Disturbance Hypothesis</title>
+      <pubDate>Fri, 4 Aug 2017 13:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR022_201708</link>
+      <itunes:duration>00:55:40</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk Intermediate Disturbance Hypothesis (IDH), the idea that diversity peaks at "intermediate" levels of disturbance. We also preview ESA 2017 and ponder the relationship between food quality and the amount of taxidermy in North Wood's bars.</itunes:summary>
+      <itunes:subtitle>Intermediate Disturbance Hypothesis...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk Intermediate Disturbance Hypothesis (IDH), the idea that diversity peaks at "intermediate" levels of disturbance. We also preview ESA 2017 and ponder the relationship between food quality and the amount of taxidermy in North Wood's bars.</description>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/2/items/MR022_201708/MR022.mp3" length ="53441909"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR021_201707</guid>
+      <title>MR021 Work Life Balance</title>
+      <pubDate>Sat, 23 Jul 2017 09:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR021_201707</link>
+      <itunes:duration>01:07:13</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff discuss their own trials and tribulations of trying to make a career in the sciences jive with a home life that approaches normality. Jeff pines about the early summer flailing nature of one member of the Red Sox pitching staff and the gang talk dog fashion shows. And science. Some science too.</itunes:summary>
+      <itunes:subtitle>Balancing Work and Life?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff discuss their own trials and tribulations of trying to make a career in the sciences jive with a home life that approaches normality. Jeff pines about the early summer flailing nature of one member of the Red Sox pitching staff and the gang talk dog fashion shows. And science. Some science too.</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/25/items/MR021_201707/MR021.mp3" length ="64532480"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item> 
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR020_201706</guid>
+      <title>MR020 Lab Girl!</title>
+      <pubDate>Fri, 26 Jun 2017 14:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR020_201706</link>
+      <itunes:duration>00:44:51</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff *finally* get around to talking about Hope Jahren's book "Lab Girl" and what it means to them as ecologists and early career scientists. </itunes:summary>
+      <itunes:subtitle>Lab Girl...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff *finally* get around to talk about Hope Jahren's book "Lab Girl" and what it meant to them as ecologists and early career scientists. </description>
+      <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/27/items/MR020_201706/MR020.mp3" length ="43057340"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item> 
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR019_201706</guid>
+      <title>MR019 Grants Rule Everything Around Me</title>
+      <pubDate>Fri, 16 Jun 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR019_201706</link>
+      <itunes:duration>01:00:02</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace just got back from an NSF conference on grants and gives the low-down to the gang and we talk different kinds of grants, application strategies, and also alternative funding sources. The gang also pours one out for DDIG.</itunes:summary>
+      <itunes:subtitle>Grant funding...</itunes:subtitle>
+      <description>Grace just got back from an NSF conference on grants and gives the low-down to the gang and we talk different kinds of grants, application strategies, and also alternative funding sources. The gang also pours one out for DDIG.</description>
+      <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/15/items/MR019_201706/MR019.mp3" length ="57642189"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR018_201706</guid>
+      <title>MR018 On the Job Market (Part 1 of n)</title>
+      <pubDate>Mon, 05 Jun 2017 15:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR018_201706</link>
+      <itunes:duration>01:02:45</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia.</itunes:summary>
+      <itunes:subtitle>On the job market...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about a recent blog post for Jeremy Yoder on his journey towards the tenure track. The gang also talk about the beloved and reviled ecoevo jobs board and Jon's recent 1600 mile cross-country journey as he moves from Kansas back to Virginia.</description>
+      <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/28/items/MR018_201706/MR018.mp3" length ="60255007"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR017_201705</guid>
+      <title>MR017 An Interview with Terry McGlynn</title>
+      <pubDate>Wed, 17 May 2017 15:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR017_201705</link>
+      <itunes:duration>00:51:11</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Following up a conversation from Twitter about academic publishing, Jeff talks to special guest Terry McGlynn, Professor of Biology at Cal State Dominguez Hills, about everything from strategies in suggesting reviewers to how junior and senior scientists approach publishing differently.</itunes:summary>
+      <itunes:subtitle>An interview with Terry McGlynn...</itunes:subtitle>
+      <description>Following up a conversation from Twitter about academic publishing, Jeff talks to special guest Terry McGlynn, Professor of Biology at Cal State Dominguez Hills, about everything from strategies in suggesting reviewers to how junior and senior scientists approach publishing differently. </description>
+      <enclosure type="audio/mpeg" url="https://ia801506.us.archive.org/26/items/MR017_201705/MR017.mp3" length ="49145664"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR016_201705</guid>
+      <title>MR016  Motivation, Inspiration, and Application</title>
+      <pubDate>Fri, 12 May 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR016_201705</link>
+      <itunes:duration>01:00:40</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about what motivates them as scientists  and discuss a Dynamic Ecology post from Jeremy Fox about basic vs. applied science. The gang also play a game of five questions.</itunes:summary>
+      <itunes:subtitle>Why do you science the way you science?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about what motivates them as scientists  and discuss a Dynamic Ecology post from Jeremy Fox about basic vs. applied science. The gang also play a game of five questions. </description>
+      <enclosure type="audio/mpeg" url="https://ia601506.us.archive.org/27/items/MR016_201705/MR016.mp3" length ="58254990"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR014_201704</guid>
+      <title>MR014  Everything You Ever Wanted to Know About Field Work</title>
+      <pubDate>Wed, 10 Apr 2017 23:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR014_201704</link>
+      <itunes:duration>01:07:45</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff relate (pretty near) everything they know about the perils and pitfalls of ecological fieldwork--from buying the good footwear to making sure your permits are filed on time. The gang catch up on their March Mammal Madness brackets and also tell stories about their worst experiences in the field.</itunes:summary>
+      <itunes:subtitle>Summer is coming, are your field experiements ready?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff relate (pretty near) everything they know about the perils and pitfalls of ecological fieldwork--from buying the good footwear to making sure your permits are filed on time. The gang catch up on their March Mammal Madness brackets and also tell stories about their worst experiences in the field. </description>
+      <enclosure type="audio/mpeg" url="https://ia801501.us.archive.org/4/items/MR014_201704/MR014.mp3" length ="65055196 "/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR013_201703</guid>
+      <title>MR013 March Mammal Madness</title>
+      <pubDate>Wed, 15 Mar 2017 10:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR013_201703</link>
+      <itunes:duration>00:53:35</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about the recent ASLO and Royal Society meetings they attended and then debate the March Mammal Madness bracket and English breakfast. Teaser...Marmite is gluten-free.</itunes:summary>
+      <itunes:subtitle>Let the March Mammal Madness begin!...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about the recent ASLO and Royal Society meetings they attended and then debate the March Mammal Madness bracket and English breakfast. Teaser...Marmite is gluten-free.</description>
+      <enclosure type="audio/mpeg" url="https://ia601504.us.archive.org/13/items/MR013_201703/MR013.mp3" length ="51443806"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR012_201703</guid>
+      <title>MR012 Understudied Areas of Ecology and Rejection!</title>
+      <pubDate>Fri, 03 Mar 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR012_201703</link>
+      <itunes:duration>00:58:47</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about what it is like to get your manuscript rejected and how to deal with it. The gang also talk about a Reiners et al. 2016 paper about the topics in ecology that ecologists value based on utility and then offer their two cents about areas they fill are underrepresented.</itunes:summary>
+      <itunes:subtitle>What are the more understudied areas of ecology and what about rejection?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about what it is like to get your manuscript rejected and how to deal with it. The gang also talk about a Reiners et al. 2016 paper about the topics in ecology that ecologists value based on utility and then offer their two cents about areas they fill are underrepresented.</description>
+      <enclosure type="audio/mpeg" url="https://ia601507.us.archive.org/8/items/MR012_201703/MR012.mp3" length ="56441475"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR011_201702</guid>
+      <title>MR011 Academic Productivity and the Science March</title>
+      <pubDate>Fri, 24 Feb 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR011_201702</link>
+      <itunes:duration>00:55:36</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff have their first (of probably many) conversation(s) on the Science March on Washington and how to better engage outside of the science bubble. The gang also talk about a recent article in Ecosphere, "Academic Productivity in the Field of Ecology," and what it really means. What does productivity look like? How should we compare departments, or should we?  Also, how the hell do you say Oikos anyway?</itunes:summary>
+      <itunes:subtitle>The Science March, Academic Productivity, and how do you say Oikos?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff have their first (of probably many) conversation(s) on the Science March on Washington and how to better engage outside of the science bubble. The gang also talk about a recent article in Ecosphere, "Academic Productivity in the Field of Ecology," and what it really means. What does productivity look like? How should we compare departments, or should we?  Also, how the hell do you say Oikos anyway?</description>
+      <enclosure type="audio/mpeg" url="https://ia801500.us.archive.org/26/items/MR011_201702/MR011.mp3" length ="53387855"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR010_201702</guid>
+      <title>MR010 Regime Shifts</title>
+      <pubDate>Fri, 3 Feb 2017 10:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR010_201702</link>
+      <itunes:duration>00:46:56</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff discuss regime shifts, state changes, basin attractors, and football pronostication.</itunes:summary>
+      <itunes:subtitle>Regime shifts...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff discuss regime shifts, state changes, basin attractors, and football pronostication.</description>
+      <enclosure type="audio/mpeg" url="https://ia601500.us.archive.org/21/items/MR010_201702/MR010.mp3" length ="45057308"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/download/MR009_201701</guid>
+      <title>MR009 Ecological Theory and You, a Love Story</title>
+      <pubDate>Tue, 24 Jan 2017 10:43:00 +0000</pubDate>
+      <link>https://archive.org/download/MR009_201701</link>
+      <itunes:duration>00:53:54</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff examine the meaning and importance of "ecological theory" from the perspectives of different research areas and degrees of interaction with theoretical ecology. The gang also give some highlights and favorite papers from 2016.</itunes:summary>
+      <itunes:subtitle>Ecological theory...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff examine the meaning and importance of "ecological theory" from the perspectives of different research areas and degrees of interaction with theoretical ecology. The gang also give some highlights and favorite papers from 2016.</description>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/11/items/MR009_201701/MR009.mp3" length ="51748618"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR008_201701</guid>
+      <title>MR008 Science Policy for Beginners</title>
+      <pubDate>Thu, 12 Jan 2017 09:04:00 +0000</pubDate>
+      <link>https://archive.org/details/MR008_201701</link>
+      <itunes:duration>00:41:34</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff are joined by Blair St. Ledger-Olson, a former congressional staffer, and Dr. Jessica Gephart, from SESYNC, to talk about how scientists can learn about policy, how policy decisions are made, and how scientists can inform policy/policymakers. The role of scientific societies also comes up--and we think you should join!</itunes:summary>
+      <itunes:subtitle>Policy for beginners…</itunes:subtitle>
+      <description>Grace, Jon, and Jeff are joined by Blair St. Ledger-Olson, a former congressional staffer, and Dr. Jessica Gephart, from SESYNC, to talk about how scientists can learn about policy, how policy decisions are made, and how scientists can inform policy/policymakers. The role of scientific societies also comes up--and we think you should join! </description>
+      <enclosure type="audio/mpeg" url="https://ia801503.us.archive.org/29/items/MR008_201701/MR008.mp3" length ="39914503"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR007_201612</guid>
+      <title>MR007 Lasers!</title>
+      <pubDate>Wed, 27 Dec 2016 09:04:00 +0000</pubDate>
+      <link>https://archive.org/details/MR007_201612</link>
+      <itunes:duration>00:48:58</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about ecological uses of LiDAR (lasers!) and banter about the best holiday foods. </itunes:summary>
+      <itunes:subtitle>Ecological uses of lasers!…</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about ecological uses of LiDAR (lasers!) and banter about the best holiday foods.  </description>
+      <enclosure type="audio/mpeg" url="https://ia601505.us.archive.org/6/items/MR007_201612/MR007.mp3" length ="47012872"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR006MajorRevisionsGradSchoolTwo</guid>
+      <title>MR006 (Most) Everything You Need to Know About Getting into Grad School (part two)</title>
+      <pubDate>Wed, 29 Nov 2016 16:30:57 +0000</pubDate>
+      <link>https://archive.org/details/MR006MajorRevisionsGradSchoolTwo</link>
+      <itunes:duration>00:31:08</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff fill in some more information about the process of applying to and getting into graduate school in the sciences with a focus on letters of recommendation, cover letters, and campus visits. </itunes:summary>
+      <itunes:subtitle>More applying to grad school in the sciences…</itunes:subtitle>
+      <description>Grace, Jon, and Jeff fill in some more information about the process of applying to and getting into graduate school in the sciences with a focus on letters of recommendation, cover letters, and campus visits.  </description>
+      <enclosure type="audio/mpeg" url="https://ia601507.us.archive.org/25/items/MR006MajorRevisionsGradSchoolTwo/MR006_Major_Revisions_Grad_School_Two.mp3" length ="29917184"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR005_201611</guid>
+      <title>MR005 (Most) Everything You Need to Know About Getting into Grad School (part one)</title>
+      <pubDate>Wed, 30 Oct 2016 16:30:57 +0000</pubDate>
+      <link>https://archive.org/details/MR005_201611</link>
+      <itunes:duration>00:57:32</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about how to apply to graduate school in the sciences . . . what to consider, where to apply, what the process entails, and what you should really expect.</itunes:summary>
+      <itunes:subtitle>Applying to grad school in the sciences…</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about how to apply to graduate school in the sciences . . . what to consider, where to apply, what the process entails, and what you should really expect. </description>
+      <enclosure type="audio/mpeg" url="https://ia601503.us.archive.org/31/items/MR005_201611/MR005.mp3" length ="55244437"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/289899138</guid>
+      <title>MR004 The Perils of Peer Review (part two)</title>
+      <pubDate>Tue, 25 Oct 2016 14:21:22 +0000</pubDate>
+      <link>https://soundcloud.com/user-106052317/mr004-the-perils-of-peer-review-part-2</link>
+      <itunes:duration>00:57:03</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jeff, and Jon wrap-up their discussion on peer review--including the major flaw they encounter when reviewing, how to address revisions to your work, and the future of peer review. The gang also battle with the question of whether undergrads should have to take calculus or if Bob Dylan will ever acknowledge his Nobel Prize.</itunes:summary>
+      <itunes:subtitle>Grace, Jeff, and Jon wrap-up their discussion on …</itunes:subtitle>
+      <description>Grace, Jeff, and Jon wrap-up their discussion on peer review--including the major flaw they encounter when reviewing, how to address revisions to your work, and the future of peer review. The gang also battle with the question of whether undergrads should have to take calculus or if Bob Dylan will ever acknowledge his Nobel Prize.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/289899138-user-106052317-mr004-the-perils-of-peer-review-part-2.mp3" length="54771263"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000190564029-ja0x53-original.jpg"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/289011836</guid>
+      <title>MR003 The Perils of Peer Review (part one)</title>
+      <pubDate>Wed, 19 Oct 2016 17:16:14 +0000</pubDate>
+      <link>https://soundcloud.com/user-106052317/mr003-the-perils-of-peer-review-part-one</link>
+      <itunes:duration>00:30:48</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>On this episode of Major Revisions, Grace, Jeff, and Jon discuss part one of the process of academic peer review--including how and where to submit a paper, how to select reviewers, and how to respond to both positive and negative reviews. The gang also talk about weird experiences out in society, how to deal with a spouse who has a cooler study organism than you do, and disagree about dolphins.</itunes:summary>
+      <itunes:subtitle>On this episode of Major Revisions, Grace, Jeff, …</itunes:subtitle>
+      <description>On this episode of Major Revisions, Grace, Jeff, and Jon discuss part one of the process of academic peer review--including how and where to submit a paper, how to select reviewers, and how to respond to both positive and negative reviews. The gang also talk about weird experiences out in society, how to deal with a spouse who has a cooler study organism than you do, and disagree about dolphins.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/289011836-user-106052317-mr003-the-perils-of-peer-review-part-one.mp3" length="29577103"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000189687133-atpwlm-original.jpg"/>
+    </item>
+	
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/287337245</guid>
+      <title>MR002 100 Questions About the Future of Ecology (part 2):  The Reckoning</title>
+      <pubDate>Wed, 12 Oct 2016 16:30:57 +0000</pubDate>
+      <link>https://soundcloud.com/user-106052317/mr002-100-questions-about-the-future-of-ecology-part-2-the-reckoning</link>
+      <itunes:duration>01:00:35</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jeff and Jon revisit the conversation from last episode about the future of ecology and address possible Nobel Prizes for great ideas in ecology. The gang also discuss how Powerball works and the new Bon Iver album.</itunes:summary>
+      <itunes:subtitle>Grace, Jeff and Jon revisit the conversation from…</itunes:subtitle>
+      <description>Grace, Jeff and Jon revisit the conversation from last episode about the future of ecology and address possible Nobel Prizes for great ideas in ecology. The gang also discuss how Powerball works and the new Bon Iver album.</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/287337245-user-106052317-mr002-100-questions-about-the-future-of-ecology-part-2-the-reckoning.mp3" length="58155499"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+	
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR001_201610</guid>
+      <title>Major Revisions - Episode One 100 Questions in Ecology (part one)</title>
+      <pubDate>Wed, 12 Oct 2016 16:30:57 +0000</pubDate>
+      <link>https://archive.org/details/MR001_201610</link>
+      <itunes:duration>00:44:37</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In the inaugural show,  Jon, Grace, and Jeff discuss an article on the 100 questions for the future of ecology--from how to define and refine spatial scales, to addressing publication and the "final drawer" problem. </itunes:summary>
+      <itunes:subtitle>In the inaugural show,  Jon, Grace, and Jeff discuss…</itunes:subtitle>
+      <description>In the inaugural show,  Jon, Grace, and Jeff discuss an article on the 100 questions for the future of ecology--from how to define and refine spatial scales, to addressing publication and the "final drawer" problem.</description>
+      <enclosure type="audio/mpeg" url="https://archive.org/download/MR001_201610/Major_Revisions_Episode001.mp3" length ="43320807"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+    </item>
+
+</channel>
+</rss>
