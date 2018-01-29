@@ -27,7 +27,7 @@ Atkins, JW, RT Fahey, BH Hardiman, CM Gough “Canopy structural complexity pred
 
 Atkins, JW, HE Epstein, DL Welsch “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.” In review at Ecosphere
 
-Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik “Shifting conceptions of complexity in forest management and siliviculture,” In review at Forest Ecology and Management
+Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik “Shifting conceptions of complexity in forest management and siliviculture,” Accepted at Forest Ecology and Management
 
 ###INVITED TALKS
 ”Carbon cycling in a humid watershed in West Virginia”, 2016 Biology Seminar Series, Virginia Commonwealth University  

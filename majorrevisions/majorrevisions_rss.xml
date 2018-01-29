@@ -41,6 +41,38 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR032SinceIWasYoung</guid>
+      <title>MR032 Since I Was Young</title>
+      <pubDate>Mon, Jan 29, 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR032SinceIWasYoung</link>
+      <itunes:duration>00:46:18</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about #SinceIWasYoung.
+		</itunes:summary>
+      <itunes:subtitle>How to do ecology...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about #SinceIWasYoung.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia601500.us.archive.org/15/items/MR032SinceIWasYoung/MR032_since_i_was_young.mp3" length ="27783168 "/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR031_201801</guid>
+      <title>MR031 The Professor is In</title>
+      <pubDate>Mon, 29 Jan 2017 12:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR031_201801</link>
+      <itunes:duration>01:01:24</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff reconvene book club to chat about the Professor is In!
+		</itunes:summary>
+      <itunes:subtitle>The Professor is In...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff reconvene book club to chat about the Professor is In!
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801508.us.archive.org/33/items/MR031_201801/MR031.mp3" length ="44212224"/>
+	    <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR030_201712</guid>
       <title>MR030 How To Do Ecology?</title>
       <pubDate>Wed, 6 Dec 2017 12:00:00 +0000</pubDate>
