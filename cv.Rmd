@@ -35,6 +35,8 @@ Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K 
 ”Where you are on the land matters . . . at least some times,” 2016 Ecological Society of America Annual Meeting in Ft. Lauderdale, FL special session “Up-Goer Five Challenge:  Using Common Language to Communicate Science”
 
 ###PRESENTATIONS (Selected)
+JW Atkins, RT Fahey, BS Hardiman, CM Gough (2018) ["The Forests and the Trees"](pdfs/atkins_uva_forest_symposium_2018_lite.pdf) Forest Growth and Water-Use Symposium at the University of Virginia
+
 JW Atkins, RT Fahey, CM Gough, BS Hardiman (2017) [“Using portable canopy LiDAR (PCL) to measure canopy structural complexity:  forest structure-function relationships at the continental scale”](pdfs/royal_society_poster.pdf) The Royal Society, The Terrestrial Laser Scanning Revolution in Forest Ecology 
 
 JW Atkins, RT Fahey, CM Gough, BS Hardiman (2016) [“Canopy structural complexity as a continental predictor of primary production: Using NEON to transform understanding of forest structure-function”](pdfs/atkins_agu_slides_2016.pdf) 2016 American Geophysical Union, abstract #B51I-07 

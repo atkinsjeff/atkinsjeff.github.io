@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -205,7 +207,17 @@ $(document).ready(function () {
 </div>
 
 
-<p>Here is where that goes.</p>
+<p>#Science Communication</p>
+<ul>
+<li><p>I co-host of the ecology and science podcast, <a href="http://www.majorrevisionsshow.com">Major Revisions</a></p></li>
+<li><p>I am a site editor and writer for <a href="http://blogs.plos.org/ecology">PLOS Ecology</a></p></li>
+<li><p>I am an associate editor for the ecology blog, <a href="http://www.rapidecology.com">Rapid Ecology</a></p></li>
+</ul>
+<p>#Science Outreach</p>
+<ul>
+<li><p>Past mentor for <a href="http://www.plantingscience.org">Planting Science</a></p></li>
+<li><p>Day of Science on behalf of the <a href="http://www.awg.org">Association for Women Geoscientists</a></p></li>
+</ul>
 
 <p>Copyright &copy; 2017 All rights reserved.</p>
 

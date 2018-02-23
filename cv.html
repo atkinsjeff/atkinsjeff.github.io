@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -227,7 +229,7 @@ Visiting Scholar, University of Virginia, Department of Environmental Sciences</
 <p>Atkins, JW, G Bohrer, RT Fahey, BH Hardiman, T Morin, A Stovall, N Zimmerman, CM Gough “ Quantifying forest and canopy structural complexity metrics from terrestrial LiDAR data using the forestr R package” In review at Methods of Ecology and Evolution</p>
 <p>Atkins, JW, RT Fahey, BH Hardiman, CM Gough “Canopy structural complexity predicts forest canopy light absorption at plot to sub-continental scales” In review at JGR-Biogeosciences</p>
 <p>Atkins, JW, HE Epstein, DL Welsch “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.” In review at Ecosphere</p>
-<p>Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik “Shifting conceptions of complexity in forest management and siliviculture,” In review at Forest Ecology and Management</p>
+<p>Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik “Shifting conceptions of complexity in forest management and siliviculture,” Accepted at Forest Ecology and Management</p>
 </div>
 <div id="invited-talks" class="section level3">
 <h3>INVITED TALKS</h3>
@@ -236,6 +238,7 @@ Visiting Scholar, University of Virginia, Department of Environmental Sciences</
 </div>
 <div id="presentations-selected" class="section level3">
 <h3>PRESENTATIONS (Selected)</h3>
+<p>JW Atkins, RT Fahey, BS Hardiman, CM Gough (2018) <a href="pdfs/atkins_uva_forest_symposium_2018_lite.pdf">“The Forests and the Trees”</a> Forest Growth and Water-Use Symposium at the University of Virginia</p>
 <p>JW Atkins, RT Fahey, CM Gough, BS Hardiman (2017) <a href="pdfs/royal_society_poster.pdf">“Using portable canopy LiDAR (PCL) to measure canopy structural complexity: forest structure-function relationships at the continental scale”</a> The Royal Society, The Terrestrial Laser Scanning Revolution in Forest Ecology</p>
 <p>JW Atkins, RT Fahey, CM Gough, BS Hardiman (2016) <a href="pdfs/atkins_agu_slides_2016.pdf">“Canopy structural complexity as a continental predictor of primary production: Using NEON to transform understanding of forest structure-function”</a> 2016 American Geophysical Union, abstract #B51I-07</p>
 <p>Atkins, JW, CM Gough, P Buckaveckas, M Beck (2016) <a href="pdfs/rice_npp_esa_2016_atkins_STANDARD_FORMAT.pdf">“Canopy complexity and chronic nitrogen amendments constrain the primary production of a Mid-Atlantic forest: A long-term study at the nexus of environmental and ecological change”</a> Ecological Society of America Annual Meeting in Ft. Lauderdale, FL</p>
