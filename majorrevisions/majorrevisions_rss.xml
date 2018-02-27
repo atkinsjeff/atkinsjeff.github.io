@@ -41,6 +41,22 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR033GradSchoolThree</guid>
+      <title>MR033 Getting Into Grad School 3: The Interview!</title>
+      <pubDate>Mon, Feb, 26 2018 21:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR033GradSchoolThree</link>
+      <itunes:duration>01:04:13</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff jump into the murky and oddly shaped pool that is the world of the graduate school interview. We also go on a journey to find out what happened to Grace's phone, how scientists find love, and the only five hobbies graduate students are allowed to have. Jeff and Grace also bond over their love of Otterbox.
+		</itunes:summary>
+      <itunes:subtitle>The grad school interview...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff jump into the murky and oddly shaped pool that is the world of the graduate school interview. We also go on a journey to find out what happened to Grace's phone, how scientists find love, and the only five hobbies graduate students are allowed to have. Jeff and Grace also bond over their love of Otterbox.
+		</description>
+      <enclosure type="audio/mpeg" url="https://ia801501.us.archive.org/13/items/MR033GradSchoolThree/MR033_grad_school_three.mp3" length ="46235648"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR032SinceIWasYoung</guid>
       <title>MR032 Since I Was Young</title>
       <pubDate>Mon, Jan 29, 2018 12:00:00 +0000</pubDate>
@@ -50,7 +66,7 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Grace, Jon, and Jeff talk about #SinceIWasYoung.
 		</itunes:summary>
-      <itunes:subtitle>How to do ecology...</itunes:subtitle>
+      <itunes:subtitle>Since I was young...</itunes:subtitle>
       <description>Grace, Jon, and Jeff talk about #SinceIWasYoung.
 		</description>
       <enclosure type="audio/mpeg" url="https://ia601500.us.archive.org/15/items/MR032SinceIWasYoung/MR032_since_i_was_young.mp3" length ="27783168 "/>
