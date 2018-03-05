@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR034CaitlinMackenzie</guid>
+      <title>MR034 An interview with Caitlin MacKenzie</title>
+      <pubDate>Mon, Mar 5, 2018 15:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR034CaitlinMackenzie</link>
+      <itunes:duration>00:57:45</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>We talk to Caitlin MacKenzie, a postdoc at the University of Maine, about taking sediment cores from frozen lakes in Maine, what it's like to put together and deliver a TEDx talk on an 19th century botanist, surviving the snowscape she calls home, and conservation, phenology, and ecology in New England. </itunes:summary>
+      <itunes:subtitle>An interview with Caitlin MacKenzie...</itunes:subtitle>
+      <description>We talk to Caitlin MacKenzie, a postdoc at the University of Maine, about taking sediment cores from frozen lakes in Maine, what it's like to put together and deliver a TEDx talk on an 19th century botanist, surviving the snowscape she calls home, and conservation, phenology, and ecology in New England. </description>
+      <enclosure type="audio/mpeg" url="https://ia601508.us.archive.org/35/items/MR034CaitlinMackenzie/MR034_caitlin_mackenzie.mp3" length ="41588433"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR033GradSchoolThree</guid>
       <title>MR033 Getting Into Grad School 3: The Interview!</title>
       <pubDate>Mon, Feb, 26 2018 21:00:00 +0000</pubDate>
