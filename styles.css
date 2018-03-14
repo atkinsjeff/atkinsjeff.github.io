@@ -11,9 +11,29 @@ section {
 		    margin: auto;
        
     }
-    
-pic {
-	width: 25%;
+  
+img {
+  width: 100px;
+}
+
+/* Three columns side by side */
+#row {
     float: left;
-	height: 100%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+.column-left{
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: right;
 }

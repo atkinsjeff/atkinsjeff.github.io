@@ -24,7 +24,7 @@
 		<itunes:subtitle>
 			A podcast from three early career ecologists…
 		</itunes:subtitle>
-		<copyright>Copyright 2017</copyright>
+		<copyright>Copyright 2018</copyright>
 		<lastBuildDate>Tue, 24 Jan 2017 14:20:00 -0700</lastBuildDate>
 		<pubDate>Tue, 24 Jan 2017 14:20:00 -0700</pubDate>
 		<image>
@@ -40,6 +40,20 @@
 		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR035Moran1953</guid>
+      <title>MR035 Classic Ecology Part One:  Moran 1953</title>
+      <pubDate>Wed, 14 Mar 2018 15:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR035Moran1953</link>
+      <itunes:duration>00:51:14</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff kick off a series delving into classic papers in ecology, leading off with P. A. P. Moran's classic paper "The statistical analysis of the Canadian Lynx Cycle II:  Synchronization and Meteorology" which helped to launch the concept of spatial synchrony, fluctuations that are correlated through time across two ore more locations, a fundamental aspect of population ecology. The gang also talk about March Mammal Madness (#2018MMM) and their picks this year and how few of the actual animals they know.</itunes:summary>
+      <itunes:subtitle>Classic ecology, Moran 1953...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff kick off a series delving into classic papers in ecology, leading off with P. A. P. Moran's classic paper "The statistical analysis of the Canadian Lynx Cycle II:  Synchronization and Meteorology" which helped to launch the concept of spatial synchrony, fluctuations that are correlated through time across two ore more locations, a fundamental aspect of population ecology. The gang also talk about March Mammal Madness (#2018MMM) and their picks this year and how few of the actual animals they know. </description>
+      <enclosure type="audio/mpeg" url="https://ia801500.us.archive.org/14/items/MR035Moran1953/MR035_Moran_1953.mp3" length ="36888896 "/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR034CaitlinMackenzie</guid>
       <title>MR034 An interview with Caitlin MacKenzie</title>
