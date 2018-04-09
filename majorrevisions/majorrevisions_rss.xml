@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR036Lindeman1942</guid>
+      <title>MR035 Classic Ecology II:  Lindeman, 1942</title>
+      <pubDate>Mon, 9 Apr 2018 8:00:00 +0000</pubDate>
+      <link>https://archive.org/details/MR036Lindeman1942</link>
+      <itunes:duration>00:56:06</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff keep the classics in ecology series going, this time with Raymond L. Lindeman's 1942 piece, "The Trophic-Dynamic Aspect of Ecology." This seminal piece not only codified the idea of the ecosystem, but features the famous (infamous?) ooze diagram. The gang also lament March Mammal Madness and the ups and downs of spring time.</itunes:summary>
+      <itunes:subtitle>Classic ecology II:  Lindeman, 1942...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff keep the classics in ecology series going, this time with Raymond L. Lindeman's 1942 piece, "The Trophic-Dynamic Aspect of Ecology." This seminal piece not only codified the idea of the ecosystem, but features the famous (infamous?) ooze diagram. The gang also lament March Mammal Madness and the ups and downs of spring time.</description>
+      <enclosure type="audio/mpeg" url="https://ia801509.us.archive.org/3/items/MR036Lindeman1942/MR036_lindeman_1942.mp3" length ="40395033"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR035Moran1953</guid>
       <title>MR035 Classic Ecology Part One:  Moran 1953</title>
       <pubDate>Wed, 14 Mar 2018 15:00:00 +0000</pubDate>
