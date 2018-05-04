@@ -41,8 +41,22 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR037Gleason1926</guid>
+      <title>MR037 Classic Ecology III:  Gleason, 1926</title>
+      <pubDate>Thu, 3 May 2018 20:00:00 +0000</pubDate>
+      <link>https://ia801507.us.archive.org/8/items/MR037Gleason1926/MR037_gleason_1926.mp3</link>
+      <itunes:duration>00:56:45</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about the Gleason, 1926 classic, "The individualistic concept of the plant association" a real barn-burner of a piece that forms one of the foundational pieces of community ecology--despite its controversial reception at the time. The group also chat up the first part of the Dynamic Ecology controversial ideas in ecology piece, why Jeff is a terrible biologist, and talk trash about Kant.</itunes:summary>
+      <itunes:subtitle>Classic ecology III:  Gleason, 1926...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about the Gleason, 1926 classic, "The individualistic concept of the plant association" a real barn-burner of a piece that forms one of the foundational pieces of community ecology--despite its controversial reception at the time. The group also chat up the first part of the Dynamic Ecology controversial ideas in ecology piece, why Jeff is a terrible biologist, and talk trash about Kant.</description>
+      <enclosure type="audio/mpeg" url="https://ia801507.us.archive.org/8/items/MR037Gleason1926/MR037_gleason_1926.mp3" length ="40863668 "/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR036Lindeman1942</guid>
-      <title>MR035 Classic Ecology II:  Lindeman, 1942</title>
+      <title>MR036 Classic Ecology II:  Lindeman, 1942</title>
       <pubDate>Mon, 9 Apr 2018 8:00:00 +0000</pubDate>
       <link>https://archive.org/details/MR036Lindeman1942</link>
       <itunes:duration>00:56:06</itunes:duration>
