@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -206,7 +208,7 @@ $(document).ready(function () {
 
 
 <p><img style="float: left;" src="images/avatar.jpeg" height="200px" width="200px" hspace = "10"></p>
-<p>I am an ecosystem ecologist and postdoctoral fellow at Virgina Commonwealth University where I work with <a href="http://www.people.vcu.edu/~cmgough/">Dr. Chris Gough</a> and the <a href="https://twitter.com/gough_lab">Gough Lab</a>. My research focuses on ecploring the relationships between ecosystem structure and function. Specifically, I use terrestrial LiDAR (light detectiong and ranging) to examine how we can more fully characterzie the structure of ecosystems to better understand ecosystem function (e.g. productivity, resource efficency, response to disturbance).</p>
+<p>I am an ecosystem ecologist and postdoctoral fellow at Virgina Commonwealth University where I work with <a href="http://www.people.vcu.edu/~cmgough/">Dr. Chris Gough</a> and the <a href="https://twitter.com/gough_lab">Gough Lab</a>. My research focuses on exploring the relationships between ecosystem structure and function. Specifically, I use terrestrial LiDAR (light detectiong and ranging) to examine how we can more fully characterzie the structure of ecosystems to better understand ecosystem function (e.g. productivity, resource efficencies, response to disturbance).</p>
 <p>I am an editor at <a href="http://blogs.plos.org/ecology">PLOS Ecology</a> and am the co-host of the ecology and science podcast <a href="http://www.majorrevisionsshow.com">Major Revisions</a></p>
 <p>You can follow me on <a href="https://twitter.com/atkinsjeff?lang=en">Twitter</a> or contact me at jwatkins6 (at) vcu.edu</p>
 <p><a href="https://scholar.google.com/citations?user=feGWkjcAAAAJ&amp;hl=en&amp;authuser=2">Google Scholar</a></p>
