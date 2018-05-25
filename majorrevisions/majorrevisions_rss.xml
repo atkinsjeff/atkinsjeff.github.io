@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR038_201805</guid>
+      <title>MR038 An Interview with Brady Hardiman</title>
+      <pubDate>Thu, 25 May 2018 15:00:00 +0000</pubDate>
+      <link>https://ia601501.us.archive.org/0/items/MR038_201805/MR038.mp3</link>
+      <itunes:duration>01:10:42</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>In episode 38 we welcome Brady Hardiman to the show! Brady is an Assistant Professor of Urban Ecology in the department of Forestry and Natural Resources at Purdue University (Go Boilermakers!). We talk about urban ecology, macrosystems, time management, mentorship, being a new professor, and setting up a lab and creating a positive and supportive atmosphere. </itunes:summary>
+      <itunes:subtitle>Brady Hardiman...</itunes:subtitle>
+      <description>In episode 38 we welcome Brady Hardiman to the show! Brady is an Assistant Professor of Urban Ecology in the department of Forestry and Natural Resources at Purdue University (Go Boilermakers!). We talk about urban ecology, macrosystems, time management, mentorship, being a new professor, and setting up a lab and creating a positive and supportive atmosphere. </description>
+      <enclosure type="audio/mpeg" url="https://ia601501.us.archive.org/0/items/MR038_201805/MR038.mp3" length ="50914457"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR037Gleason1926</guid>
       <title>MR037 Classic Ecology III:  Gleason, 1926</title>
       <pubDate>Thu, 3 May 2018 20:00:00 +0000</pubDate>
