@@ -19,15 +19,13 @@ I am also working with a team of core researchers focused on assessing how fores
 [Hubbard Brook Experimental Forest Ice Storm Experiment](https://www.nrs.fs.fed.us/sustaining_forests/natural_disturbance/ice_storm_experiment/)  
 [University of Michigan Biological Station](https://lsa.umich.edu/umbs)
 
-
-#  
-#  
-#  
-#  
-#  
 ***
 #  
 #Shenandoah Watershed Study
 <img style="float: left;" src="images/swas.jpg" height="200px" width="200px" hspace = "10" vpsace = "10>
     
-I have also worked with the [Shenandoah Watershed Study and Virginia Trout Stream Sensitivity Study](http://people.virginia.edu/~swas/POST/scripts/overview.php), a monitoring and research program focused on understanding the biogeochemistry of mountain headwater streams in Virginia, West Virginia, and Maryland--including Shenandoah National Park and other public lands. 
+I have also worked with the [Shenandoah Watershed Study and Virginia Trout Stream Sensitivity Study](http://people.virginia.edu/~swas/POST/scripts/overview.php), a monitoring and research program focused on understanding the biogeochemistry of mountain headwater streams in Virginia, West Virginia, and Maryland--including Shenandoah National Park and other public lands.
+
+
+
+***
