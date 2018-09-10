@@ -14,19 +14,21 @@ Postdoctoral Fellow, Virginia Commonwealth University, Department of Biology
 Visiting Scholar, University of Virginia, Department of Environmental Sciences
 
 ###PUBLICATIONS
-Atkins, JW, HE Epstein, DL Welsch “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.” Accepted at Ecosphere
+JW Atkins, HE Epstein, DL Welsch “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.” Accepted at Ecosphere
 
-Atkins, JW, G Bohrer, RT Fahey, BH Hardiman, T Morin, A Stovall, N Zimmerman, CM Gough (2018) [“ Quantifying forest and canopy structural complexity metrics from terrestrial LiDAR data using the forestr R package”](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13061) Methods of Ecology and Evolution (Currently in Early View)
+JW Atkins, G Bohrer, RT Fahey, BH Hardiman, T Morin, A Stovall, N Zimmerman, CM Gough (2018) [“ Quantifying forest and canopy structural complexity metrics from terrestrial LiDAR data using the forestr R package”](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13061) Methods of Ecology and Evolution (Currently in Early View)
 
-Atkins, JW, RT Fahey, BH Hardiman, CM Gough (2018) [“Canopy structural complexity predicts forest canopy light absorption at plot to sub-continental scales”](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JG004256)  JGR-Biogeosciences 123 (4), 1387-1405. DOI:  10.1001/2017/JG004256
+JW Atkins, RT Fahey, BH Hardiman, CM Gough (2018) [“Canopy structural complexity predicts forest canopy light absorption at plot to sub-continental scales”](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JG004256)  JGR-Biogeosciences 123 (4), 1387-1405. DOI:  10.1001/2017/JG004256
 
-Fahey, RT, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik (2018) [“Shifting conceptions of complexity in forest management and siliviculture”](https://www.fs.fed.us/nrs/pubs/jrnl/2018/nrs_2018_fahey_001.pdf) Forest Ecology and Management 421, 59-71. DOI: 10.1061/j.foreco.2018.01.011
+EA LaRue, JW Atkins, K Dahlin, RT Fahey, S Fei, CM Gough, BS Hardiman (2018) ["Linking Landsat to terrestrial LiDAR:  Vegetation metrics of forest greenness are correlated with canopy structural complexity"](https://www.sciencedirect.com/science/article/pii/S0303243418304045) International Journal of Applied Earth Observation and Geoinformation 73, 420-427. DOI: 10.1016/j.jag.2018.07.001
 
-Atkins, JW, HE Epstein, DL Welsch (2017) [“Seasonal and inter-annual variability in litter decomposition and nitrogen availability in a mid-Appalachian watershed.”](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1908/abstract) Ecosphere 8 (9). DOI: 10.1002/ecs2.1908
+RT Fahey, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik (2018) [“Shifting conceptions of complexity in forest management and siliviculture”](https://www.fs.fed.us/nrs/pubs/jrnl/2018/nrs_2018_fahey_001.pdf) Forest Ecology and Management 421, 59-71. DOI: 10.1061/j.foreco.2018.01.011
+
+JW Atkins, HE Epstein, DL Welsch (2017) [“Seasonal and inter-annual variability in litter decomposition and nitrogen availability in a mid-Appalachian watershed.”](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1908/abstract) Ecosphere 8 (9). DOI: 10.1002/ecs2.1908
 
 JA Walter, JC Neblett, JW Atkins, HE Epstein (2017) [“Regional and watershed scale analysis of current and future suitable habitat for red spruce in the central Appalachian Mountains.”](pdfs/articles/walter_et_al_2017.pdf) Plant Ecology 218 (3), 305-316. DOI: 10.1007/s11258-016-0687-5
 
-Atkins, JW, HE Epstein, DL Welsch (2015) [“Vegetation and elevation influence the timing and magnitude of soil CO2 efflux in a humid, topographically complex watershed.”](https://www.biogeosciences.net/12/2975/2015/bg-12-2975-2015.html) Biogeosciences, 12 (10), 2975-2994.  DOI:  10.5194/bg-12-2975-2015
+JW Atkins, HE Epstein, DL Welsch (2015) [“Vegetation and elevation influence the timing and magnitude of soil CO2 efflux in a humid, topographically complex watershed.”](https://www.biogeosciences.net/12/2975/2015/bg-12-2975-2015.html) Biogeosciences 12 (10), 2975-2994.  DOI:  10.5194/bg-12-2975-2015
 
 
 ###INVITED TALKS

@@ -17,8 +17,7 @@ Canopy structure, an ecosystem feature that can be broadly characterized using r
 I am also working with a team of core researchers focused on assessing how forest structure changes with moderate disturbance (e.g. ice, fire, insects, pathogens) across an array of sites including Hubbard Brook Experimental Forest, University of Michigan Biological Station, and the Great Smoky Mountains National Park.  
 
 [Hubbard Brook Experimental Forest Ice Storm Experiment](https://www.nrs.fs.fed.us/sustaining_forests/natural_disturbance/ice_storm_experiment/)  
-[University of Michigan Biological Station](https://lsa.umich.edu/umbs)   
-[Great Smoky Mountains National Park]  
+[University of Michigan Biological Station](https://lsa.umich.edu/umbs)
 
 
 #  
