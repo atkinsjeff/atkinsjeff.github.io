@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR045_201811</guid>
+      <title>MR045 Calling the Quantitive Ecologist</title>
+      <pubDate>Fri, 09 Nov 2018 09:00:00 +0000</pubDate>
+      <link>https://ia801505.us.archive.org/19/items/MR045_201811/MR045_statistics_one.mp3</link>
+      <itunes:duration>00:54:10</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jon and Jeff ask the age old question, when do the statistics get so wonky you call in the quants? The gang minus one talk about the trade-offs between learning new, powerful techniques and just collaborating with folks who have already climbed that mountain (e.g. statisticians and quantitative ecologists). Also, old car or new car? Doom metal or screamo? Did you know we are the world's leading ecology podcast? So much and more on this episode of Major Revisions! </itunes:summary>
+      <itunes:subtitle>When do you call in the quantitative ecologists?... </itunes:subtitle>
+      <description>Jon and Jeff ask the age old question, when do the statistics get so wonky you call in the quants? The gang minus one talk about the trade-offs between learning new, powerful techniques and just collaborating with folks who have already climbed that mountain (e.g. statisticians and quantitative ecologists). Also, old car or new car? Doom metal or screamo? Did you know we are the world's leading ecology podcast? So much and more on this episode of Major Revisions!  </description>
+      <enclosure type="audio/mpeg" url="https://ia801505.us.archive.org/19/items/MR045_201811/MR045_statistics_one.mp3" length ="39698432"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR044Nsf</guid>
       <title>MR044 NSF part one</title>
       <pubDate>Thu, 08 Nov 2018 01:00:00 +0000</pubDate>
