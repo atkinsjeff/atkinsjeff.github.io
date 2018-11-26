@@ -41,11 +41,25 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR044Nsf</guid>
+      <title>MR044 NSF part one</title>
+      <pubDate>Thu, 08 Nov 2018 01:00:00 +0000</pubDate>
+      <link>https://ia601503.us.archive.org/23/items/MR044Nsf/MR044_nsf.mp3</link>
+      <itunes:duration>01:00:37</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff ive a primer on the funding mechanisms at the National Science Foundation (NSF) as well as recent changes that we are all thinking about it. The gang also lament poison ivy and chiggers while delivering a stern warning about Benadryl. Be careful out there!</itunes:summary>
+      <itunes:subtitle>NSF Part One... </itunes:subtitle>
+      <description>Grace, Jon, and Jeff ive a primer on the funding mechanisms at the National Science Foundation (NSF) as well as recent changes that we are all thinking about it. The gang also lament poison ivy and chiggers while delivering a stern warning about Benadryl. Be careful out there! </description>
+      <enclosure type="audio/mpeg" url="https://ia601503.us.archive.org/23/items/MR044Nsf/MR044_nsf.mp3" length ="44299549"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR043AtticusStovall</guid>
       <title>MR043 An Interview with Atticus Stovall</title>
       <pubDate>Thu, 20 Sep 2018 12:00:00 +0000</pubDate>
       <link>https://ia601506.us.archive.org/30/items/MR043AtticusStovall/MR043_stovall.mp3</link>
-      <itunes:duration>01:13.50</itunes:duration>
+      <itunes:duration>01:13:50</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Jon and Jeff interview Atticus Stovall of the University of Virginia, a lidar guru and all-around nice person, live from the top of a mountain at the University of Tennessee Biological Station near the Great Smoky Mountains National Park. Atticus gives his thoughts on forest ecology and solar induced fluorescence as well as telling some stories about traveling to Toolik, New Mexico, and many place in between. The gang also establish Combos as the null model for gas station snack food.</itunes:summary>
