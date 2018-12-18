@@ -25,8 +25,8 @@
 			A podcast from three early career ecologists…
 		</itunes:subtitle>
 		<copyright>Copyright 2018</copyright>
-		<lastBuildDate>Tue, 24 Jan 2017 14:20:00 -0700</lastBuildDate>
-		<pubDate>Tue, 24 Jan 2017 14:20:00 -0700</pubDate>
+		<lastBuildDate>Tue, 18 Dec 2018 14:20:00 -0700</lastBuildDate>
+		<pubDate>Tue, 18 Jan 2018 09:00:00 -0700</pubDate>
 		<image>
 		<title>Major Revisions</title>
 		<url>http://i.imgur.com/UswzUCU.png</url>
@@ -37,9 +37,24 @@
 			<itunes:email>majorrevisionsshow@gmail.com (J. Atkins)</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Science &amp; Medicine"/>
-		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment</itunes:keywords>
+		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment,
+		limnology</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR046MailbagOne</guid>
+      <title>MR046 Mailbag One:  Two Years and Counting</title>
+      <pubDate>Tue, 12 Dec 2018 09:44:00 +0000</pubDate>
+      <link>https://ia601501.us.archive.org/0/items/MR046MailbagOne/MR046_Mailbag_One.mp3</link>
+      <itunes:duration>01:08:32</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff celebrate two years of podcasting with a mailbag episode where we answer a slew of emails, questions, and follow-ups from the last few weeks on air including crowdfunding science, grants for early career folks, and why we don't talk about more classical ecology papers. Also, hot pockets.</itunes:summary>
+      <itunes:subtitle>Mailbag part one!... </itunes:subtitle>
+      <description>Grace, Jon, and Jeff celebrate two years of podcasting with a mailbag episode where we answer a slew of emails, questions, and follow-ups from the last few weeks on air including crowdfunding science, grants for early career folks, and why we don't talk about more classical ecology papers. Also, hot pockets.</description>
+      <enclosure type="audio/mpeg" url="https://ia601501.us.archive.org/0/items/MR046MailbagOne/MR046_Mailbag_One.mp3" length ="48273870"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
 	<item>
       <guid isPermaLink="false">https://archive.org/details/MR045_201811</guid>
       <title>MR045 Calling the Quantitative Ecologist</title>
