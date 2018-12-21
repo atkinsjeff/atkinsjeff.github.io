@@ -42,6 +42,26 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR047NSF2</guid>
+      <title>MR047:  NSF Part Two</title>
+      <pubDate>Fri, 21 Dec 2018 13:00:00 +0000</pubDate>
+      <link>https://ia601502.us.archive.org/15/items/MR047NSF2/MR047_NSF2.mp3</link>
+      <itunes:duration>01:02:09</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff continue the discussion about the NSF proposal process including ad hoc reviews, what panels are like, and how to
+	  prepare what you need in order to get funded. The gang also take stock of what their 
+	  science wishlist is for the holidays including imaginary dataset, magical equipment, and 
+	  the most fantastic of all . . . time to do what needs to get done. Also, the joys of winter fieldwork and olive juice.</itunes:summary>
+      <itunes:subtitle>Mailbag part one!... </itunes:subtitle>
+      <description>Grace, Jon, and Jeff continue the discussion about the NSF proposal process including ad hoc reviews, 
+	  what panels are like, and how to prepare what you need in order to get funded. The gang also take stock of what 
+	  their science wishlist is for the holidays including imaginary dataset, magical equipment, and the most fantastic of all . . . 
+	  time to do what needs to get done. Also, the joys of winter fieldwork and olive juice.</description>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/15/items/MR047NSF2/MR047_NSF2.mp3" length ="44035300"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR046MailbagOne</guid>
       <title>MR046 Mailbag One:  Two Years and Counting</title>
       <pubDate>Tue, 12 Dec 2018 09:44:00 +0000</pubDate>
