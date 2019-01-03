@@ -42,6 +42,26 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR049BenCook</guid>
+      <title>MR049:  An Interview with Ben Cook</title>
+      <pubDate>Thu, 3 Jan 2019 10:00:00 +0000</pubDate>
+      <link>https://ia801502.us.archive.org/34/items/MR049BenCook/MR049_ben_cook.mp3</link>
+      <itunes:duration>00:30:27</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Dr. Ben Cook from NASA Goddard Institute of Space Studies joins us on the show to talk about 
+	  drought, the climate system, working across scales/disciplines, how we think about hazards, and his soon-to-be-released 
+	  book. Ben is a climate scientist who is broadly interested in land surface and climate system interactions with a focus on 
+	  drought. This show was recorded live at the 2018 American Geophysical Union Fall Meeting in Washington, DC. </itunes:summary>
+      <itunes:subtitle>Ben Cook... </itunes:subtitle>
+      <description>Dr. Ben Cook from NASA Goddard Institute of Space Studies joins us on the show to talk about 
+	  drought, the climate system, working across scales/disciplines, how we think about hazards, and his soon-to-be-released 
+	  book. Ben is a climate scientist who is broadly interested in land surface and climate system interactions with a focus on 
+	  drought. This show was recorded live at the 2018 American Geophysical Union Fall Meeting in Washington, DC.</description>
+      <enclosure type="audio/mpeg" url="https://ia801502.us.archive.org/34/items/MR049BenCook/MR049_ben_cook.mp3" length ="22940087"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR048KylaDahlin</guid>
       <title>MR048:  An Interview with Kyla Dahlin</title>
       <pubDate>Wed, 2 Jan 2019 05:00:00 +0000</pubDate>
