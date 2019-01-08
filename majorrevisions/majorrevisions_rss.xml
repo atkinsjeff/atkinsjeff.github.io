@@ -42,6 +42,30 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR0502018InReview</guid>
+      <title>MR050: 2018 in review</title>
+      <pubDate>Tue, 8 Jan 2019 01:00:00 +0000</pubDate>
+      <link>https://ia801507.us.archive.org/22/items/MR0502018InReview/MR050_2018_in_review.mp3</link>
+      <itunes:duration>00:51:32</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff bid a not-so-fond farewell to 2018. The gang talk about their 
+	  favorite papers of the year, science low-lights, and their podcast resolutions for the 
+	  upcoming year. And, to wrap up the year, we return with America's favorite game, five questions. 
+	  What would your lab mascot be? What are the sounds of owls mating? Have you seen Twin Peaks? Also, 
+	  Jeff learns about the limnology challenge he has to face and everyone learns what the 2019 Major 
+	  Revisions stickers are going to look like!</itunes:summary>
+      <itunes:subtitle>In review, 2018... </itunes:subtitle>
+      <description>Grace, Jon, and Jeff bid a not-so-fond farewell to 2018. The gang talk about their 
+	  favorite papers of the year, science low-lights, and their podcast resolutions for the 
+	  upcoming year. And, to wrap up the year, we return with America's favorite game, five questions. 
+	  What would your lab mascot be? What are the sounds of owls mating? Have you seen Twin Peaks? Also, 
+	  Jeff learns about the limnology challenge he has to face and everyone learns what the 2019 Major 
+	  Revisions stickers are going to look like!</description>
+      <enclosure type="audio/mpeg" url="https://ia801507.us.archive.org/22/items/MR0502018InReview/MR050_2018_in_review.mp3" length ="35819159"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR049BenCook</guid>
       <title>MR049:  An Interview with Ben Cook</title>
       <pubDate>Thu, 3 Jan 2019 10:00:00 +0000</pubDate>
