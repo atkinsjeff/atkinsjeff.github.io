@@ -42,6 +42,24 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR051Nowicki</guid>
+      <title>MR051: An Interview with Rob Nowicki</title>
+      <pubDate>Wed, 6 Feb 2019 05:00:00 +0000</pubDate>
+      <link>https://ia601507.us.archive.org/23/items/MR051Nowicki/MR051_nowicki.mp3</link>
+      <itunes:duration>01:03:49</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jeff sits down with Rob Nowicki, a postdoctoral researcher at the Mote Marine Lab, to talk about how the scope of ecological research has changed 
+	  over that past few decades, the differences between marine ecology and biology, living in the Florida Keys, 
+	  and what life is like in the field when your field is the deep blue sea. </itunes:summary>
+      <itunes:subtitle>An interview with Rob Nowicki </itunes:subtitle>
+      <description>Jeff sits down with Rob Nowicki to talk about how the scope of ecological research has changed 
+	  over that past few decades, the differences between marine ecology and biology, living in the Florida Keys, 
+	  and what life is like in the field when your field is the deep blue sea.</description>
+      <enclosure type="audio/mpeg" url="https://ia601507.us.archive.org/23/items/MR051Nowicki/MR051_nowicki.mp3" length ="43839450"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR0502018InReview</guid>
       <title>MR050: 2018 in review</title>
       <pubDate>Tue, 8 Jan 2019 01:00:00 +0000</pubDate>
