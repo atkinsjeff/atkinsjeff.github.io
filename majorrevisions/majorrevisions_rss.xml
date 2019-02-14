@@ -42,6 +42,26 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR052Biodiversity</guid>
+      <title>MR052: Biodiversity, Neutral Theory, and Pillai and Gouhier, 2019</title>
+      <pubDate>Thu, 14 Feb 2019 05:00:00 +0000</pubDate>
+      <link>https://ia601407.us.archive.org/21/items/MR052Biodiversity/MR052_biodiversity.mp3</link>
+      <itunes:duration>00:57:51</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff tackle a recent paper in Ecology (Pillai & Gouhier, 2019) that claims that the "positive" effect of biodiversity
+	  on ecosystem functioning is vastly overstated. The gang talk about the background and context of the paper, including 
+	  neutral theory, competitive exclusion, and complementarity, while also revisiting some classic ecology work from 
+	  Tilman and Huston. Also, March Mammal Madness is coming soon! </itunes:summary>
+      <itunes:subtitle>Biodiversity and neutral theory...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff tackle a recent paper in Ecology (Pillai & Gouhier, 2019) that claims that the "positive" effect of biodiversity
+	  on ecosystem functioning is vastly overstated. The gang talk about the background and context of the paper, including 
+	  neutral theory, competitive exclusion, and complementarity, while also revisiting some classic ecology work from 
+	  Tilman and Huston. Also, March Mammal Madness is coming soon!</description>
+      <enclosure type="audio/mpeg" url="https://ia601407.us.archive.org/21/items/MR052Biodiversity/MR052_biodiversity.mp3" length ="39521156"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR051Nowicki</guid>
       <title>MR051: An Interview with Rob Nowicki</title>
       <pubDate>Wed, 6 Feb 2019 05:00:00 +0000</pubDate>
