@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/MR058Plotting</guid>
+      <title>MR058: The Plot Thickens</title>
+      <pubDate>Thu, 20 Jun 2019 11:00:00 -0500</pubDate>
+      <link>https://ia801403.us.archive.org/4/items/MR058Plotting/MR058_plotting.mp3</link>
+      <itunes:duration>00:41:06</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jon and Jeff do a deep-dive into the PLOS: Computational Biology paper "Ten Simple Rules for Better Figures." This one is kind of nerdy, but at this point, isn't that what y'all want?  </itunes:summary>
+      <itunes:subtitle>Science graphics...</itunes:subtitle>
+      <description>Jon and Jeff do a deep-dive into the PLOS: Computational Biology paper "Ten Simple Rules for Better Figures." This one is kind of nerdy, but at this point, isn't that what y'all want?  </description>
+      <enclosure type="audio/mpeg" url="https://ia801403.us.archive.org/4/items/MR058Plotting/MR058_plotting.mp3" length ="28660422"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	<item>
       <guid isPermaLink="false">https://archive.org/details/MR057Power1990</guid>
       <title>MR057: Classic Ecology IV: Power, 1990</title>
       <pubDate>Tue, 14 May 2019 12:00:00 -0500</pubDate>
