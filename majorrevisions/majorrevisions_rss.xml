@@ -40,6 +40,7 @@
 		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment,limnology, education, theory, statistics, math, environment, grad school, conservation, culture</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+		
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr060ryanemanuel</guid>
       <title>MR060: Ryan Emanuel</title>
@@ -50,10 +51,11 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Jeff sits down with professor and ecohydrologist Ryan Emanuel from North Carolina State University to talk about crossovers in ecology and hydrology, introducing students to interdisciplinary work, and his work with American Indian/Indigenous communities. Ryan also gives us a big announcement. </itunes:summary>
       <itunes:subtitle>Ryan Emanuel...</itunes:subtitle>
-      <description>Jeff sits down with professor and ecohydrologist Ryan Emanuel from North Carolina State University to talk about crossovers in ecology and hydrology, introducing students to interdisciplinary work, and his work with American Indian/Indigenous communities. Ryan also gives us a big announcement. description>
+      <description>Jeff sits down with professor and ecohydrologist Ryan Emanuel from North Carolina State University to talk about crossovers in ecology and hydrology, introducing students to interdisciplinary work, and his work with American Indian/Indigenous communities. Ryan also gives us a big announcement. </description>
       <enclosure type="audio/mpeg" url="https://ia601408.us.archive.org/11/items/mr060ryanemanuel/MR060_ryan_emanuel.mp3" length ="38483888"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
     </item>	
+	
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr059hobbie1992</guid>
       <title>MR059: Hobbie, 1992</title>
