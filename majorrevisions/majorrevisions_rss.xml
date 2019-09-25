@@ -37,10 +37,40 @@
 			<itunes:email>majorrevisionsshow@gmail.com (J. Atkins)</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Science &amp; Medicine"/>
-		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment,limnology, education, theory, statistics, math, environment, grad school, conservation, culture</itunes:keywords>
+		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment, limnology, education, theory, statistics, math, environment, grad school, conservation, culture</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
-		
+	
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr063datasharingwithmikepace</guid>
+      <title>MR063: Data is Sharing, Data is Caring, with Mike Pace</title>
+      <pubDate>Wed, 25 Sep 2019 12:00:00 -0400</pubDate>
+      <link>https://ia601502.us.archive.org/31/items/mr063datasharingwithmikepace/MR063_data_sharing_with_mike_pace.mp3</link>
+      <itunes:duration>00:26:14</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace and Jon sit down with Mike Pace from the University of Virginia to talk about data sharing and how the ecological data landscape has changed over the last couple of decades.</itunes:summary>
+      <itunes:subtitle>Data sharing with Mike Pace...</itunes:subtitle>
+      <description>Grace and Jon sit down with Mike Pace from the University of Virginia to talk about data sharing and how the ecological data landscape has changed over the last couple of decades.</description>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/31/items/mr063datasharingwithmikepace/MR063_data_sharing_with_mike_pace.mp3" length ="17690431"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr060ryanemanuel</guid>
+      <title>MR062: Stats and Models</title>
+      <pubDate>Wed, 25 Sep 2019 12:00:00 -0400</pubDate>
+      <link>https://ia801404.us.archive.org/29/items/mr062statsandmodels/MR062_stats_and_models.mp3</link>
+      <itunes:duration>00:53:05</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff recount some summer activities and talk about #ESA2019, but the main focus of the show is talking about a recent Nature Communications op-ed on statistical vs. mathematical modeling. </itunes:summary>
+      <itunes:subtitle>Statisical vs. Mathematical Modeling...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff recount some summer activities and talk about #ESA2019, but the main focus of the show is talking about a recent Nature Communications op-ed on statistical vs. mathematical modeling. </description>
+      <enclosure type="audio/mpeg" url="https://ia801404.us.archive.org/29/items/mr062statsandmodels/MR062_stats_and_models.mp3" length ="37008112"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr060ryanemanuel</guid>
       <title>MR060: Ryan Emanuel</title>
