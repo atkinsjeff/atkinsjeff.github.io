@@ -51,13 +51,13 @@
       <itunes:summary>Grace and Jon sit down with Mike Pace from the University of Virginia to talk about data sharing and how the ecological data landscape has changed over the last couple of decades.</itunes:summary>
       <itunes:subtitle>Data sharing with Mike Pace...</itunes:subtitle>
       <description>Grace and Jon sit down with Mike Pace from the University of Virginia to talk about data sharing and how the ecological data landscape has changed over the last couple of decades.</description>
-      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/31/items/mr063datasharingwithmikepace/MR063_data_sharing_with_mike_pace.mp3" length ="17690431"/>
+      <enclosure type="audio/mpeg" url="https://ia601502.us.archive.org/31/items/mr063datasharingwithmikepace/MR063_data_sharing_with_mike_pace.mp3" length = "17690431"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
     </item>	
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr060ryanemanuel</guid>
       <title>MR062: Stats and Models</title>
-      <pubDate>Wed, 25 Sep 2019 11:00:00 -0400</pubDate>
+      <pubDate>Tue, 24 Sep 2019 12:00:00 EST</pubDate>
       <link>https://ia801404.us.archive.org/29/items/mr062statsandmodels/MR062_stats_and_models.mp3</link>
       <itunes:duration>00:53:05</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
@@ -71,7 +71,7 @@
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr060ryanemanuel</guid>
       <title>MR060: Ryan Emanuel</title>
-      <pubDate>Fri, 09 Aug 2019 16:00:00 -0400</pubDate>
+      <pubDate>Mon, 23 Sep 2019 12:00:00 EST</pubDate>
       <link>https://ia601408.us.archive.org/11/items/mr060ryanemanuel/MR060_ryan_emanuel.mp3</link>
       <itunes:duration>00:55:18</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
@@ -82,7 +82,7 @@
       <enclosure type="audio/mpeg" url="https://ia601408.us.archive.org/11/items/mr060ryanemanuel/MR060_ryan_emanuel.mp3" length ="38483888"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
     </item>	
-		<item>
+	<item>
       <guid isPermaLink="false">https://archive.org/details/mr059hobbie1992</guid>
       <title>MR059: Hobbie, 1992</title>
       <pubDate>Fri, 09 Aug 2019 10:00:00 -0400</pubDate>
