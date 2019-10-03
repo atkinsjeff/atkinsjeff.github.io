@@ -3,13 +3,13 @@ title: "Jeff Atkins, PhD"
 ---
 <img style="float: left;" src="images/avatar.jpeg" height="200px" width="200px" hspace = "10">
 
-I am an ecosystem ecologist and postdoctoral fellow at Virgina Commonwealth University where I work with [Dr. Chris Gough](http://www.people.vcu.edu/~cmgough/) and the [Gough Lab](https://twitter.com/gough_lab). My research focuses on exploring the relationships between ecosystem structure and function. Specifically, I use remote sensing techniques including terrestrial LiDAR (light detectiong and ranging) to examine how we can more fully characterize the structure of ecosystems to better understand ecosystem function (e.g. productivity, resource efficencies, response to disturbance).
+I am an ecosystem ecologist and postdoctoral fellow at Virgina Commonwealth University where I work with [Dr. Chris Gough](http://www.people.vcu.edu/~cmgough/) and the [Gough Lab](https://twitter.com/gough_lab). My research focuses on exploring the relationships between ecosystem structure and function. Specifically, I use remote sensing techniques including terrestrial lidar (light detectiong and ranging) to examine how we can more fully characterize the structure of ecosystems to better understand ecosystem function (e.g. productivity, resource efficencies, response to disturbance).
 
 I am an editor at [PLOS Ecology](http://blogs.plos.org/ecology) and am the co-host of the ecology and science podcast [Major Revisions](http://www.majorrevisionsshow.com)
 
 You can follow me on [Twitter](https://twitter.com/atkinsjeff?lang=en) or contact me at jwatkins6 (at) vcu.edu 
 
-[Google Scholar](https://scholar.google.com/citations?user=feGWkjcAAAAJ&hl=en&authuser=2)
+[Google Scholar](https://scholar.google.com/citations?user=Ea33pwcAAAAJ&hl=en)
 
 
 

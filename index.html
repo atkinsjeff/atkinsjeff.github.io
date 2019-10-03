@@ -70,9 +70,7 @@ h6 {
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -97,6 +95,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -111,7 +112,6 @@ body {
   padding-top: 56px;
   margin-top: -56px;
 }
-
 .section h2 {
   padding-top: 56px;
   margin-top: -56px;
@@ -131,6 +131,43 @@ body {
 .section h6 {
   padding-top: 56px;
   margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -152,19 +189,85 @@ $(document).ready(function () {
 });
 </script>
 
-
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
 });
 </script>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -211,15 +314,15 @@ $(document).ready(function () {
 
 
 <p><img style="float: left;" src="images/avatar.jpeg" height="200px" width="200px" hspace = "10"></p>
-<p>I am an ecosystem ecologist and postdoctoral fellow at Virgina Commonwealth University where I work with <a href="http://www.people.vcu.edu/~cmgough/">Dr. Chris Gough</a> and the <a href="https://twitter.com/gough_lab">Gough Lab</a>. My research focuses on exploring the relationships between ecosystem structure and function. Specifically, I use remote sensing techniques including terrestrial LiDAR (light detectiong and ranging) to examine how we can more fully characterize the structure of ecosystems to better understand ecosystem function (e.g. productivity, resource efficencies, response to disturbance).</p>
+<p>I am an ecosystem ecologist and postdoctoral fellow at Virgina Commonwealth University where I work with <a href="http://www.people.vcu.edu/~cmgough/">Dr. Chris Gough</a> and the <a href="https://twitter.com/gough_lab">Gough Lab</a>. My research focuses on exploring the relationships between ecosystem structure and function. Specifically, I use remote sensing techniques including terrestrial lidar (light detectiong and ranging) to examine how we can more fully characterize the structure of ecosystems to better understand ecosystem function (e.g. productivity, resource efficencies, response to disturbance).</p>
 <p>I am an editor at <a href="http://blogs.plos.org/ecology">PLOS Ecology</a> and am the co-host of the ecology and science podcast <a href="http://www.majorrevisionsshow.com">Major Revisions</a></p>
 <p>You can follow me on <a href="https://twitter.com/atkinsjeff?lang=en">Twitter</a> or contact me at jwatkins6 (at) vcu.edu</p>
-<p><a href="https://scholar.google.com/citations?user=feGWkjcAAAAJ&amp;hl=en&amp;authuser=2">Google Scholar</a></p>
+<p><a href="https://scholar.google.com/citations?user=Ea33pwcAAAAJ&amp;hl=en">Google Scholar</a></p>
 <p>
  
 </p>
 
-<p>Copyright &copy; 2017 All rights reserved.</p>
+<p>Copyright &copy; 2019 All rights reserved.</p>
 
 
 

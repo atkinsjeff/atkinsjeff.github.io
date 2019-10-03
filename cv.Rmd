@@ -14,9 +14,19 @@ Postdoctoral Fellow, Virginia Commonwealth University, Department of Biology
 Visiting Scholar, University of Virginia, Department of Environmental Sciences
 
 ###PUBLICATIONS
-JW Atkins, HE Epstein, DL Welsch “Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.” Accepted at Ecosphere
+####2019
+Fahey, RT, JW Atkins, CM Gough, BS Hardiman, L Nave, J Tallant, K Nadelhoffer, C Vogel, C Scheuermann, E Stuart-Haentjens, LM Haber, A Fotis, R Ricart, P Curtis (In Press) [“Defining a spectrum of integrative trait-based vegetation canopy structural types”](https://doi.org/10.1111/ele.13388) In press at Ecology Letters
 
-JW Atkins, G Bohrer, RT Fahey, BH Hardiman, T Morin, A Stovall, N Zimmerman, CM Gough (2018) [“ Quantifying forest and canopy structural complexity metrics from terrestrial LiDAR data using the forestr R package”](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13061) Methods of Ecology and Evolution (Currently in Early View)
+Gough, CM,  JW Atkins, RT Fahey, BS Hardiman (2019) [“High rates of primary production in structurally complex forests.”](https://doi.org/10.1002/ecy.2864) In press at Ecology
+
+Hickey, LJ, JW Atkins, RT Fahey, MT Kreider, CM Gough (2019) [“Contrasting development of canopy structure and primary production in planted and naturally regenerated red pine forests.”](https://doi.org/10.3390/f10070566) Forests, 10 (7), 566. DOI: https://doi.org/10.3390/f10070566 
+
+Atkins, JW and E Agee (2019) [“Phenological and structural linkages to seasonality inform productivity relationships in the amazon rainforest.”](https://doi.org/10.1111/nph.15783) New Phytologist 222 (3), 1165-1166. https://doi.org/10.1111/nph.15783
+
+####2018
+JW Atkins, HE Epstein, DL Welsch (2018) [“Characterization of understory shrub expansion in a West Virginia watershed from 1986 – 2011 using Landsat derived vegetation indices.”](https://doi.org/10.1002/ecs2.2404) Ecosphere, 9 (10). DOI: 10.1002/ecs2.2404
+
+JW Atkins, G Bohrer, RT Fahey, BH Hardiman, T Morin, A Stovall, N Zimmerman, CM Gough (2018) [“ Quantifying forest and canopy structural complexity metrics from terrestrial LiDAR data using the forestr R package”](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13061) Methods of Ecology and Evolution 9 (10), 2057-2066. DOI: 10.1111/2041-210X.13061
 
 JW Atkins, RT Fahey, BH Hardiman, CM Gough (2018) [“Canopy structural complexity predicts forest canopy light absorption at plot to sub-continental scales”](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JG004256)  JGR-Biogeosciences 123 (4), 1387-1405. DOI:  10.1001/2017/JG004256
 
@@ -24,17 +34,17 @@ EA LaRue, JW Atkins, K Dahlin, RT Fahey, S Fei, CM Gough, BS Hardiman (2018) ["L
 
 RT Fahey, C Kern, Y Dickinson, B Alveshere, CM Gough, BH Hardiman, W Keeton, K Puettmann, M Saunders, JW Atkins, C Webster, J Burton, A Larson, A D’Amato, B Palik (2018) [“Shifting conceptions of complexity in forest management and siliviculture”](https://www.fs.fed.us/nrs/pubs/jrnl/2018/nrs_2018_fahey_001.pdf) Forest Ecology and Management 421, 59-71. DOI: 10.1061/j.foreco.2018.01.011
 
+####2017
 JW Atkins, HE Epstein, DL Welsch (2017) [“Seasonal and inter-annual variability in litter decomposition and nitrogen availability in a mid-Appalachian watershed.”](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1908/abstract) Ecosphere 8 (9). DOI: 10.1002/ecs2.1908
 
 JA Walter, JC Neblett, JW Atkins, HE Epstein (2017) [“Regional and watershed scale analysis of current and future suitable habitat for red spruce in the central Appalachian Mountains.”](pdfs/articles/walter_et_al_2017.pdf) Plant Ecology 218 (3), 305-316. DOI: 10.1007/s11258-016-0687-5
 
+####2015
 JW Atkins, HE Epstein, DL Welsch (2015) [“Vegetation and elevation influence the timing and magnitude of soil CO2 efflux in a humid, topographically complex watershed.”](https://www.biogeosciences.net/12/2975/2015/bg-12-2975-2015.html) Biogeosciences 12 (10), 2975-2994.  DOI:  10.5194/bg-12-2975-2015
 
 
 ###INVITED TALKS
-”Carbon cycling in a humid watershed in West Virginia”, 2016 Biology Seminar Series, Virginia Commonwealth University  
 
-”Where you are on the land matters . . . at least some times,” 2016 Ecological Society of America Annual Meeting in Ft. Lauderdale, FL special session “Up-Goer Five Challenge:  Using Common Language to Communicate Science”
 
 ###PRESENTATIONS (Selected)
 JW Atkins, RT Fahey, BS Hardiman, CM Gough (2018) ["The Forests and the Trees"](pdfs/atkins_uva_forest_symposium_2018_lite.pdf) Forest Growth and Water-Use Symposium at the University of Virginia
@@ -42,6 +52,10 @@ JW Atkins, RT Fahey, BS Hardiman, CM Gough (2018) ["The Forests and the Trees"](
 JW Atkins, RT Fahey, CM Gough, BS Hardiman (2017) [“Using portable canopy LiDAR (PCL) to measure canopy structural complexity:  forest structure-function relationships at the continental scale”](pdfs/royal_society_poster.pdf) The Royal Society, The Terrestrial Laser Scanning Revolution in Forest Ecology 
 
 JW Atkins, RT Fahey, CM Gough, BS Hardiman (2016) [“Canopy structural complexity as a continental predictor of primary production: Using NEON to transform understanding of forest structure-function”](pdfs/atkins_agu_slides_2016.pdf) 2016 American Geophysical Union, abstract #B51I-07 
+
+Atkins, JW (2016) ”Carbon cycling in a humid watershed in West Virginia”, Biology Seminar Series, Virginia Commonwealth University  
+
+Atkins, JW (2016) ”Where you are on the land matters . . . at least some times,” Ecological Society of America Annual Meeting in Ft. Lauderdale, FL special session “Up-Goer Five Challenge:  Using Common Language to Communicate Science”
 
 Atkins, JW, CM Gough, P Buckaveckas, M Beck (2016) [“Canopy complexity and chronic nitrogen amendments constrain the primary production of a Mid-Atlantic forest: A long-term study at the nexus of environmental and ecological change”](pdfs/rice_npp_esa_2016_atkins_STANDARD_FORMAT.pdf) Ecological Society of America Annual Meeting in Ft. Lauderdale, FL 
 
