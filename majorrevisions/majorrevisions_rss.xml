@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr064costofpublishing</guid>
+      <title>MR064: The (Hidden) Costs of Publishing</title>
+      <pubDate>Fri, 4 Oct 2019 16:00:00 -0400</pubDate>
+      <link>https://ia801401.us.archive.org/33/items/mr064costofpublishing/MR064_Cost_of_publishing.mp3</link>
+      <itunes:duration>00:54:10</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about the hidden costs of publishing, referencing Josh Schimel's famous blog post on the subject. Where does open access and preprints fit into the current state and future of publishing? How would we alter the publishing landscape? How do you decide where to publish? Also, Jeff gets his license plate stolen. </itunes:summary>
+      <itunes:subtitle>Why does it cost so much to publish?...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff talk about the hidden costs of publishing, referencing Josh Schimel's famous blog post on the subject. Where does open access and preprints fit into the current state and future of publishing? How would we alter the publishing landscape? How do you decide where to publish? Also, Jeff gets his license plate stolen. </description>
+      <enclosure type="audio/mpeg" url="https://ia801401.us.archive.org/33/items/mr064costofpublishing/MR064_Cost_of_publishing.mp3" length = "36806656"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	<item>
       <guid isPermaLink="false">https://archive.org/details/mr063datasharingwithmikepace</guid>
       <title>MR063: Data is Sharing, Data is Caring, with Mike Pace</title>
       <pubDate>Wed, 25 Sep 2019 12:00:00 -0400</pubDate>
