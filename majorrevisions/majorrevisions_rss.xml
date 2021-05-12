@@ -10,9 +10,7 @@
 		<title>
 			Major Revisions
 		</title>
-		<link>
-			http://majorrevisions.weebly.com/episodes
-		</link>
+		<link>https://www.majorrevisionspodcast.com/</link>
 		<description>
 			A podcast from three early career ecologists about science, academia, life, and other stuff.
 		</description>
@@ -21,12 +19,10 @@
 		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
 		<itunes:author> J. W. Atkins, J. Walter, G. Wilkinson </itunes:author>
 		
-		<itunes:subtitle>
-			A podcast about ecology and science…
-		</itunes:subtitle>
-		<copyright>Copyright 2019</copyright>
-		<lastBuildDate>Thu, 20 Jun 2019 11:00:00 -0500</lastBuildDate>
-		<pubDate>Thu, 20 Jun 2019 11:00:00 -0500</pubDate>
+		<itunes:subtitle>A podcast about the science and life as a scientist...</itunes:subtitle>
+		<copyright>Copyright 2021</copyright>
+		<lastBuildDate>Tue, 12 May 2021 15:00:00 -0500</lastBuildDate>
+		<pubDate>Tue, 12 May 2021 15:00:00 -0500</pubDate>
 		<image>
 		<title>Major Revisions</title>
 		<url>http://i.imgur.com/UswzUCU.png</url>
