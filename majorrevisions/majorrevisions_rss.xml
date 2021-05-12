@@ -41,6 +41,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr-070-revise-and-resubmit</guid>
+      <title>MR070: Revise and Resubmit</title>
+      <pubDate>Tue, 12 May 2020 15:00:00 EST</pubDate>
+      <link>https://ia601405.us.archive.org/9/items/mr-070-revise-and-resubmit/MR070_revise_and_resubmit.mp3</link>
+      <itunes:duration>00:43:29</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff reconvene still during the pandemic and talk about career changes, switching universities, what pandemic-induced changes they hope stick around, and whether giraffes are believable as animals.</itunes:summary>
+      <itunes:subtitle>Revise and resubmit...</itunes:subtitle>
+      <description>Grace, Jon, and Jeff reconvene still during the pandemic and talk about career changes, switching universities, what pandemic-induced changes they hope stick around, and whether giraffes are believable as animals.</description>
+      <enclosure type="audio/mpeg" url="https://ia601405.us.archive.org/9/items/mr-070-revise-and-resubmit/MR070_revise_and_resubmit.mp3" length = "20981079"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
+	<item>
       <guid isPermaLink="false">https://archive.org/details/mr065aguprep2019</guid>
       <title>MR065: Attending Your First Science Conference: An AGU 2019 Special</title>
       <pubDate>Thu, 5 Dec 2019 13:00:00 EST</pubDate>
