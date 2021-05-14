@@ -7,21 +7,18 @@
 >
 	<channel>
 		<atom:link href="http://atkinsjeff.github.io/majorrevisions/majorrevisions_rss.xml" rel="self" type="application/rss+xml"/>
-		<title>
-			Major Revisions
-		</title>
+		<title>Major Revisions</title>
 		<link>https://www.majorrevisionspodcast.com/</link>
-		<description>
-			A podcast from three early career ecologists about science, academia, life, and other stuff.
+		<description>The world's greatest ecology and environmental sciences podcast
 		</description>
 
 		<language>en-us</language>
 		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
-		<itunes:author> J. W. Atkins, J. Walter, G. Wilkinson </itunes:author>
+		<itunes:author> Jeff W. Atkins, Jonathan A. Walter, Grace M. Wilkinson </itunes:author>
 		
 		<itunes:subtitle>A podcast about the science and life as a scientist...</itunes:subtitle>
 		<copyright>Copyright 2021</copyright>
-		<lastBuildDate>Tue, 12 May 2021 15:00:00 -0500</lastBuildDate>
+		<lastBuildDate>Tue, 14 May 2021 17:00:00 -0500</lastBuildDate>
 		<pubDate>Tue, 12 May 2021 15:00:00 -0500</pubDate>
 		<image>
 		<title>Major Revisions</title>
@@ -45,7 +42,7 @@
       <itunes:author>Major Revisions</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Grace, Jon, and Jeff discuss the potential occurrences and frequency of data fabrication and scientific fraud in ecology. Just how rare is rare? What is scientific fraud? How do we detect it and how do we prevent it?</itunes:summary>
-      <itunes:subtitle>Science fraud!...</itunes:subtitle>
+      <itunes:subtitle>Science fraud...</itunes:subtitle>
       <description>Grace, Jon, and Jeff discuss the potential occurrences and frequency of data fabrication and scientific fraud in ecology. Just how rare is rare? What is scientific fraud? How do we detect it and how do we prevent it?</description>
       <enclosure type="audio/mpeg" url="https://ia601508.us.archive.org/27/items/mr-071-fraud-and-fabrication/MR071_fraud_and_fabrication.mp3" length = "23975976 "/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
@@ -64,6 +61,20 @@
       <enclosure type="audio/mpeg" url="https://ia601405.us.archive.org/9/items/mr-070-revise-and-resubmit/MR070_revise_and_resubmit.mp3" length = "20981079"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
 	</item>	
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr-067-basic-and-applied-ecology</guid>
+      <title>MR067: Bascic and Applied Ecology</title>
+      <pubDate>Fri, May 14 2020 13:00:00 EST</pubDate>
+      <link>https://archive.org/download/mr-067-basic-and-applied-ecology/MR067_basic_and_applied_ecology.mp3</link>
+      <itunes:duration>00:49:27</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Grace, Jon, and Jeff talk about the beginnings of quarantine and then jump into the murky waters that are applied vs. basic ecology. Is there really a difference? Does it matter? </itunes:summary>
+      <itunes:subtitle>Basic and applied ecology...</itunes:subtitle>
+	  <description>Grace, Jon, and Jeff talk about the beginnings of quarantine and then jump into the murky waters that are applied vs. basic ecology. Is there really a difference? Does it matter?</description>
+      <enclosure type="audio/mpeg" url="https://archive.org/download/mr-067-basic-and-applied-ecology/MR067_basic_and_applied_ecology.mp3" length = "33241934"/>
+	  <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+    </item>	
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr-066-phosphorous-one_202004</guid>
       <title>MR066: Phosphorous, Publishing, and Existential Dread</title>
