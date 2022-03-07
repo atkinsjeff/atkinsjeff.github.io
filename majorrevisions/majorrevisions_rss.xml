@@ -14,12 +14,12 @@
 
 		<language>en-us</language>
 		<webMaster>majorrevisionsshow@gmail.com (J. Atkins)</webMaster>
-		<itunes:author> Jeff W. Atkins, Jonathan A. Walter, Grace M. Wilkinson </itunes:author>
+		<itunes:author>Major Revisions</itunes:author>
 		
-		<itunes:subtitle>A podcast about the science and life as a scientist...</itunes:subtitle>
-		<copyright>Copyright 2021</copyright>
-		<lastBuildDate>Tue, 14 May 2021 17:00:00 -0500</lastBuildDate>
-		<pubDate>Tue, 12 May 2021 15:00:00 -0500</pubDate>
+		<itunes:subtitle>A science podcast for scientists and everyone else...</itunes:subtitle>
+		<copyright>Copyright 2022</copyright>
+		<lastBuildDate>Mon, 7 Mar 2022 14:00:00 EST</lastBuildDate>
+		<pubDate>Mon, 7 Mar 2022 14:00:00 EST</pubDate>
 		<image>
 		<title>Major Revisions</title>
 		<url>http://i.imgur.com/UswzUCU.png</url>
@@ -34,6 +34,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr-072-making-plans</guid>
+      <title>MR072: New Directions, Making Plans</title>
+      <pubDate>Mon, 7 Mar 2022 14:00:00 EST</pubDate>
+      <link>https://ia801401.us.archive.org/1/items/mr-072-making-plans/MR072_making_plans.mp3</link>
+      <itunes:duration>00:43:50</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jon and Jeff are back and talking future directions and making plans--with a big announcement and a fair amount of navel-gazing</itunes:summary>
+      <itunes:subtitle>New directions...</itunes:subtitle>
+      <description>Jon and Jeff are back and talking future directions and making plans--with a big announcement and a fair amount of navel-gazing</description>
+      <enclosure type="audio/mpeg" url="https://ia801401.us.archive.org/1/items/mr-072-making-plans/MR072_making_plans.mp3" length = "21345283"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+	</item>	
+	<item>
       <guid isPermaLink="false">https://archive.org/details/mr-071-fraud-and-fabrication</guid>
       <title>MR071: Fraud and Fabrication</title>
       <pubDate>Mon, 24 May 2021 13:00:00 EST</pubDate>
@@ -44,7 +58,7 @@
       <itunes:summary>Grace, Jon, and Jeff discuss the potential occurrences and frequency of data fabrication and scientific fraud in ecology. Just how rare is rare? What is scientific fraud? How do we detect it and how do we prevent it?</itunes:summary>
       <itunes:subtitle>Science fraud...</itunes:subtitle>
       <description>Grace, Jon, and Jeff discuss the potential occurrences and frequency of data fabrication and scientific fraud in ecology. Just how rare is rare? What is scientific fraud? How do we detect it and how do we prevent it?</description>
-      <enclosure type="audio/mpeg" url="https://ia601508.us.archive.org/27/items/mr-071-fraud-and-fabrication/MR071_fraud_and_fabrication.mp3" length = "23975976 "/>
+      <enclosure type="audio/mpeg" url="https://ia601508.us.archive.org/27/items/mr-071-fraud-and-fabrication/MR071_fraud_and_fabrication.mp3" length = "23975976"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
 	</item>	
 	<item>
