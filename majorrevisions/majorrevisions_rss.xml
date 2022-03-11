@@ -34,6 +34,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr-073-changing-minds</guid>
+      <title>MR073: What Have We Changed Our Minds About?</title>
+      <pubDate>Fri, 11 Mar 2022 14:00:00 EST</pubDate>
+      <link>https://ia801502.us.archive.org/15/items/mr-073-changing-minds/MR073_Changing_Minds.mp3</link>
+      <itunes:duration>00:46:43</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jon and Jeff address the absurdity of reviewing two articles a day, Jeff offers up a revolutionary idea for review papers, and both address whether they would or would not change any of the advice they have given out on the podcast over the years.</itunes:summary>
+      <itunes:subtitle>Changing our minds?...</itunes:subtitle>
+      <description>Jon and Jeff address the absurdity of reviewing two articles a day, Jeff offers up a revolutionary idea for review papers, and both address whether they would or would not change any of the advice they have given out on the podcast over the years.</description>
+      <enclosure type="audio/mpeg" url="https://ia801502.us.archive.org/15/items/mr-073-changing-minds/MR073_Changing_Minds.mp3" length = "23800069"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+	</item>	
+	<item>
       <guid isPermaLink="false">https://archive.org/details/mr-072-making-plans</guid>
       <title>MR072: New Directions, Making Plans</title>
       <pubDate>Mon, 7 Mar 2022 14:00:00 EST</pubDate>
