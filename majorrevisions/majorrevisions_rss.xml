@@ -18,7 +18,7 @@
 		
 		<itunes:subtitle>A science podcast for scientists and everyone else...</itunes:subtitle>
 		<copyright>Copyright 2022</copyright>
-		<lastBuildDate>Mon, 7 Mar 2022 14:00:00 EST</lastBuildDate>
+		<lastBuildDate>Fri, 18 Mar 2022 12:00:00 EDT</lastBuildDate>
 		<pubDate>Mon, 7 Mar 2022 14:00:00 EST</pubDate>
 		<image>
 		<title>Major Revisions</title>
@@ -33,6 +33,24 @@
 		<itunes:keywords>science, ecology, biology, podcast, academia, academe, higher education, science communication, environmental sciences, environment, limnology, education, theory, statistics, math, environment, grad school, conservation, culture</itunes:keywords>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
+	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr-074</guid>
+      <title>MR074: Theory for the Masses with Dr. Tess Grainger</title>
+      <pubDate>Fri, 18 Mar 2022 12:00:00 EDT</pubDate>
+      <link>https://ia601401.us.archive.org/1/items/mr-074/MR074.mp3</link>
+      <itunes:duration>00:55:13</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jon, Jeff, and guest co-host Tess Grainger talk about bridging the gap between ecological theorists and empiricists. Where are the challenges? What are the ways forward? What do we gain? 
+
+Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpress.com/2022/01/grainger-et-al.-2022-amnat.pdf)</itunes:summary>
+      <itunes:subtitle>CTheory!..</itunes:subtitle>
+      <description>Jon, Jeff, and guest co-host Tess Grainger talk about bridging the gap between ecological theorists and empiricists. Where are the challenges? What are the ways forward? What do we gain? 
+
+Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpress.com/2022/01/grainger-et-al.-2022-amnat.pdf) .</description>
+      <enclosure type="audio/mpeg" url="https://ia601401.us.archive.org/1/items/mr-074/MR074.mp3" length = "26956867"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+	</item>	
 	<item>
       <guid isPermaLink="false">https://archive.org/details/mr-073-changing-minds</guid>
       <title>MR073: What Have We Changed Our Minds About?</title>
