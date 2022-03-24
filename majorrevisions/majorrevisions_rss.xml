@@ -34,6 +34,20 @@
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:image href="http://i.imgur.com/UswzUCU.png"/>
 	<item>
+      <guid isPermaLink="false">https://archive.org/details/mr-075-early-career</guid>
+      <title>MR075: Defining "early career" with Drs. Cristy Portales and Lauren Hallett</title>
+      <pubDate>Thu, 24 Mar 2022 15:00:00 EDT</pubDate>
+      <link>https://ia801401.us.archive.org/14/items/mr-075-early-career/MR075_Early_Career.mp3</link>
+      <itunes:duration>00:55:38</itunes:duration>
+      <itunes:author>Major Revisions</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Jon and Jeff are joined by Drs. Cristy Portales and Lauren Hallett to talk about the nebulous concept of the "early career" scientist. When does "early career" start? When does it end? We discuss whether it is purely a concept based on time since degree, achievement of certain milestones, or just how one defines themselves. </itunes:summary>
+      <itunes:subtitle>What is early career?</itunes:subtitle>
+      <description>Jon and Jeff are joined by Drs. Cristy Portales and Lauren Hallett to talk about the nebulous concept of the "early career" scientist. When does "early career" start? When does it end? We discuss whether it is purely a concept based on time since degree, achievement of certain milestones, or just how one defines themselves.</description>
+      <enclosure type="audio/mpeg" url="https://ia801401.us.archive.org/14/items/mr-075-early-career/MR075_Early_Career.mp3" length = "26622565"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
+	</item>	
+	<item>
       <guid isPermaLink="false">https://archive.org/details/mr-074</guid>
       <title>MR074: Theory for the Masses with Dr. Tess Grainger</title>
       <pubDate>Fri, 18 Mar 2022 12:00:00 EDT</pubDate>
@@ -43,11 +57,11 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:summary>Jon, Jeff, and guest co-host Tess Grainger talk about bridging the gap between ecological theorists and empiricists. Where are the challenges? What are the ways forward? What do we gain? 
 
-Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpress.com/2022/01/grainger-et-al.-2022-amnat.pdf)</itunes:summary>
-      <itunes:subtitle>CTheory!..</itunes:subtitle>
+		Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpress.com/2022/01/grainger-et-al.-2022-amnat.pdf)</itunes:summary>
+      <itunes:subtitle>Theory!..</itunes:subtitle>
       <description>Jon, Jeff, and guest co-host Tess Grainger talk about bridging the gap between ecological theorists and empiricists. Where are the challenges? What are the ways forward? What do we gain? 
-
-Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpress.com/2022/01/grainger-et-al.-2022-amnat.pdf) .</description>
+	
+		Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpress.com/2022/01/grainger-et-al.-2022-amnat.pdf) .</description>
       <enclosure type="audio/mpeg" url="https://ia601401.us.archive.org/1/items/mr-074/MR074.mp3" length = "26956867"/>
       <itunes:image href="http://i.imgur.com/UswzUCU.png"/> 
 	</item>	
@@ -1015,7 +1029,7 @@ Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpres
       <itunes:subtitle>Grace, Jeff, and Jon wrap-up their discussion on …</itunes:subtitle>
       <description>Grace, Jeff, and Jon wrap-up their discussion on peer review--including the major flaw they encounter when reviewing, how to address revisions to your work, and the future of peer review. The gang also battle with the question of whether undergrads should have to take calculus or if Bob Dylan will ever acknowledge his Nobel Prize.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/289899138-user-106052317-mr004-the-perils-of-peer-review-part-2.mp3" length="54771263"/>
-      <itunes:image href="http://i1.sndcdn.com/artworks-000190564029-ja0x53-original.jpg"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
     </item>
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/289011836</guid>
@@ -1029,13 +1043,13 @@ Paper for discussion:  Grainger et al. 2022 (https://tessgrainger.files.wordpres
       <itunes:subtitle>On this episode of Major Revisions, Grace, Jeff, …</itunes:subtitle>
       <description>On this episode of Major Revisions, Grace, Jeff, and Jon discuss part one of the process of academic peer review--including how and where to submit a paper, how to select reviewers, and how to respond to both positive and negative reviews. The gang also talk about weird experiences out in society, how to deal with a spouse who has a cooler study organism than you do, and disagree about dolphins.</description>
       <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/289011836-user-106052317-mr003-the-perils-of-peer-review-part-one.mp3" length="29577103"/>
-      <itunes:image href="http://i1.sndcdn.com/artworks-000189687133-atpwlm-original.jpg"/>
+      <itunes:image href="http://i.imgur.com/UswzUCU.png"/>
     </item>
 	
     <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/287337245</guid>
       <title>MR002 100 Questions About the Future of Ecology (part 2):  The Reckoning</title>
-      <pubDate>Wed, 12 Oct 2016 16:30:57 +0000</pubDate>
+      <pubDate>Wed, 12 Oct 2016 16:45 +0000</pubDate>
       <link>https://soundcloud.com/user-106052317/mr002-100-questions-about-the-future-of-ecology-part-2-the-reckoning</link>
       <itunes:duration>01:00:35</itunes:duration>
       <itunes:author>Major Revisions</itunes:author>
