@@ -2,20 +2,59 @@
   title: "CV"
 ---
 
-[Full CV in pdf format](CV_Atkins_Jeff.pdf)
+[Full CV in pdf format](./pdfs/CV_Atkins_Jeff.pdf)
 
 
 ### EDUCATION
 2016 	Doctor of Philosophy, Environmental Sciences, University of Virginia, Charlottesville, VA 	
 2004	Bachelor of Arts, English, Western Carolina University, Cullowhee, NC
 
-### APPOINTMENTS
-Postdoctoral Fellow, Virginia Commonwealth University, Department of Biology  
-Visiting Scholar, University of Virginia, Department of Environmental Sciences
+### CURRENT APPOINTMENTS
+Research Biologist, USDA Forest Service, Southern Research Station, New Ellenton, SC
+Assistant Professor, Virginia Commonwealth University, Department of Biology (*affiliated appointment)  
 
 ### PUBLICATIONS
 
+#### 2022
+CM Gough, JW Atkins, RT Fahey, PS Curtis, G Bohrer, BS Hardiman, LJ Hickey, LE Nave, KM Neidermaier, CS Clay,	JM Tallant, B Bond-Lamberty (Accepted) “Disturbance has variable effects on the structural complexity of a	temperate forest landscape,” Accepted at Ecological Indicators, May 2022
+
+JA Walter, C Buelo, ML Pace, A Besterman, JW Atkins (2022) “An algorithm for detecting and quantifying disturbance and recovery in high-frequency ecological time series,” Limnology & Oceanography Methods, https://doi.org/10.1002/lom3.10490 
+
+A Fotis, CE Flower, JW Atkins, CC Pinchot, S Matthews (2022) “The short-term and long-term effects of honeysuckle removal on canopy structural complexity and its implications for urban forest management,” Forest Ecology and Management. 
+
+CA Silva, A Hudak . . .  JW Atkins, (2022) “Treetop:  A Shiny-based Application and R Package for Extracting Forest Information from LiDAR data for Ecologists and Conservationists,” Methods in Ecology and Evolution, https://doi.org/10.1111/2041-210X.13830  [In the top 5% of all research outputs scored by Altmetric]
+
+JW Atkins, JA Walter, AEL Stovall, RT Fahey, and CM Gough, (2022) “Power-law scaling relationships link forest complexity and canopy height across forest types,” Functional Ecology 36 (3),  https://doi-org.proxy.library.vcu.edu/10.1111/1365-2435.13983 
+
+JW Atkins, AEL Stovall, CA Silva (2021) “Open-source tools in R for forestry and forest ecology,” Forest Ecology and Management 503, 119813. https://doi.org/10.1016/j.foreco.2021.119813 
+
+RT Fahey, B Alveshare, JW Atkins, CM Gough, BS Hardiman, D Tanzer (2022) "An experimental approach for crown to whole-canopy defoliation in forests," Canadian Journal of Forest Research 52 (2), https://doi.org/10.1139/cjfr-2020-0527 
+
+#### 2021
+CM Gough, G Bohrer, BS Hardiman, L Nave, C Vogel, JW Atkins, B Bond-Lamberty, RT Fahey, A Fotis, M Grigri, LT Haber, J Yang, C Kleinke, K Maythes, K Nadelhoffer, E Stuart-Haëntjens, P Curtis (2021) “Disturbance-accelerated succession increases the production of a temperate forest,” Ecological Applications, https://doi.org/10.1002/eap.2417 
+
+EM Ordway, AJ Elmore, S Kolstoe, JE Quinn, R Swanwick, M Cattau, D Taillie, SM Guiin, KD Chadwick, JW Atkins, RE Blake, M Chapman, K Cobourn, T Goulden, MR Helmus, K Hondula, C Hritz, J Jensen, JP Julian, Y Kuwayama, V Lulla, D O’Leary, DR Nelson, JP Ocon, S Pau, GE Ponce-Campos, C Portillio-Quintero, NG Pricope, RG Rivero, L Schneider, M Steele, MG Tulbure, MA Williamson, C Wilson (2021) “Leveraging the NEON Airborne Observation Platform for socio-environmental systems research,” Ecosphere 12 (6), e03640,  https://doi.org/10.1002/ecs2.3640 
+
+JW Atkins, EA Agee, A Barry, KM Dahlin, K Dorheim, MS Grigri, LT Haber, LJ Hickey, AG Kamoske, K Mathes, C McGuigan, E Paris, SC Pennington, C Rodriguez, A Shafer, A Shiklomanov, J Tallant, CM Gough, B Bond-Lamberty (2021) “The fortedata R package: open-science datasets from a manipulative experiment testing forest resilience,” Earth Systems Science Data 13, 943–952. https://doi.org/10.5194/essd-13-943-2021 
+
+JA Walter, AEL Stovall, JW Atkins (2021) “Vegetation structural complexity and biodiversity in the Great Smoky Mountains,” Ecosphere 12 (3), e03390, https://doi.org/10.1002/ecs2.3390 
+
+LaRue, E, J Rohr, J Knott, WK Dodds, KM Dahlin, JH Thorp, JS Johnson, MI Rodriguez Gonzalez, BS Hardiman, M Keller, RT Fahey, JW Atkins, F Tromboni, MD SanClements, GG Parker, J Liu, S Fei (2021) “The evolution of macrosystem biology,” Frontiers in Ecology and the Environment 19 (1), 11-19, https://doi.org/10.1002/fee.2288 
+
+
 #### 2020
+JW Atkins, AEL Stovall, X Yang (2020) “Mapping Temperate Forest Phenology Using Tower, UAV, and Ground-Based Sensors,” Drones 4 (3), 56:  https://doi.org/10.3390/drones4030056 
+
+CM Gough, JW Atkins and others (2020) “Forest structural complexity and biomass predict first-year carbon cycling responses to disturbance” Ecosystems, 37:  https://doi.org/10.1007/s10021-020-00544-1
+
+CM Gough, JW Atkins, RT Fahey, BS Hardiman, E LaRue, (Accepted) “Community and structural constraints on 
+the complexity of eastern North American forests,” Global Ecology and Biogeography:   https://doi.org/10.1111/geb.13180 
+
+AN Shiklomanov, B Bond-Lamberty, JW Atkins, CM Gough (2020) “Structure and parameter uncertainty in 
+centennial projections of forest community structure and carbon cycling.” Global Change Biology: https://doi.org/10.1111/gcb.15164 
+
+MS Grigri, JW Atkins, C Vogel, B Bond-Lamberty, CM Gough (2020) Aboveground wood productiction is sustained in the first growing season after phloem-disrupting disturbance.” Forests 11 (12), 1306: https://doi.org/10.3390/f11121306 
+
 EA LaRue, FW Wagner, S Fei, JW Atkins, RT Fahey, CM Gough, BS Hardiman (In Press) ["Compatibility of Aerial and Terrestrial LiDAR for Quantifying Forest Structural Diversity"](https://www.preprints.org/manuscript/202003.0339/v1) In press at Remote Sensing 
 
 JW Atkins, RT Fahey, BS Hardiman, L Haber, E Stuart-Haëntjens, E LaRue, B McNeil, D Orwig, AES Stovall, J Tallant, CM Gough (In Press) [A Multidimensional Approach is Needed to Detect and Differentiate Moderate Disturbance"](https://www.preprints.org/manuscript/201911.0082/v1) In press at Ecosphere
