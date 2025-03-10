@@ -13,7 +13,7 @@
 
 <title>Jeff Atkins, PhD</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -142,11 +142,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -175,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -184,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -253,10 +250,10 @@ $(document).ready(function () {
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="cv.html">CV</a>
+  <a href="biol317.html">BIOL 317</a>
 </li>
 <li>
-  <a href="outreach.html">Science Communication and Outreach</a>
+  <a href="biol591.html">BIOL 591</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -276,15 +273,32 @@ $(document).ready(function () {
 
 
 <p><img src="images/avatar.jpeg" style="float: left;" alt="jeff" hspace = "10"></p>
-<p>I am a Research Biologist with the <a href="https://www.srs.fs.usda.gov/staff/scientists/1113">USDA Forest Service Southern Research Station</a>. My research focuses on 1) forest structure and structural diversity relationships to growth, nutrient cycling, animal habitat, and climate change response; 2) The spatiotemporal evolution of forest structure and diversity as a function of disturbance mechanisms—specifically focusing on moderate severity disturbance and co-occurring disturbances; 3) Development and application of novel remote sensing techniques in ecology and forestry (e.g. terrestrial laser scanning, UAVs, hyperspectral, RGB imagery) to measure forest structure (e.g. structural complexity, stand structure); 4) forest microclimates, including leading the development of ForestMicroNet, a USDA funded project to build a forest microclimate network for the southern US.</p>
-<p>I co-host the ecology and science podcast <a href="http://www.majorrevisionsshow.com">Major Revisions</a></p>
-<p>You can follow me on <a href="https://twitter.com/atkinsjeff?lang=en">Twitter</a> or contact me at jeffrey.atkins (at) usda.gov</p>
-<p><a href="https://scholar.google.com/citations?user=Ea33pwcAAAAJ&amp;hl=en">Google Scholar</a></p>
+<p>I am an Assistant Research Professor in the Biology Dept. at Virginia
+Commonwealth University. My research focuses on 1) forest structure and
+structural diversity relationships to growth, nutrient cycling, animal
+habitat, disturbance and climate change response; 2) The spatiotemporal
+evolution of forest structure and diversity as a function of disturbance
+mechanisms—specifically focusing on moderate severity disturbance and
+co-occurring disturbances; 3) Development and application of novel
+remote sensing techniques in ecology and forestry (e.g., terrestrial
+laser scanning, UAV, hyperspectral, RGB imagery) to measure forest
+structure (e.g., structural complexity, stand structure); 4) forest
+microclimates, including leading the development of ForestMicroNet, a
+USDA funded project to build a forest microclimate network for the
+southern US.</p>
+<p>I co-host the ecology and science podcast <a
+href="http://www.majorrevisionsshow.com">Major Revisions</a></p>
+<p>You can follow me on <a
+href="https://bsky.app/profile/atkinsjeff.bsky.social">BlueSky</a> or
+contact me at jwatkins6 (at) vcu.gov</p>
+<p><a
+href="https://scholar.google.com/citations?user=Ea33pwcAAAAJ&amp;hl=en">Google
+Scholar</a></p>
 <p>
  
 </p>
 
-<p>Copyright &copy; 2022 All rights reserved.</p>
+<p>Copyright &copy; 2025 All rights reserved.</p>
 
 
 

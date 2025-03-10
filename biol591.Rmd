@@ -1,0 +1,39 @@
+---
+title: "BIOL 591:  Digital Earth"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Digital Earth is a special topics course for Fall 2025 and is a project-based learning opportunity designed to provide graduate and upper-level undergraduate students with an applied introduction to the use of remote sensing data and techniques for ecological and environmental applications. Digital Earth will focus on providing students with background knowledge on how remote sensing data are acquired, how those data types vary, and how those data types can be used to address ecological and environmental questions. Digital Earth is 3-credit hour course that meets twice a week on Tuesdays and Thursdays. Each week will be focused on a specific topic, with Tuesdays focused on lecture and discussion and Thursdays on in-class assignments that provide hands-on practice and skills related to that week’s topic. 
+
+## Learning Outcomes
+1) Understand how to access multiple types of remote sensing data and import those data into a computer workspace environment (e.g., R, Python, Google Earth Engine) for analysis and processing
+
+2) Learn data science and geospatial information science skills-—data management, parallel processing, proper coding technique, and statistics--necessary for conducting spatial analyses used in industry, governmental, and research applications
+
+3) Understand, at an intermediate level, how remote sensing data are acquired and how remote sensing data types vary in acquisition, use, and application to know what data are needed for specific applications, where to access those data, and what those data mean
+
+4) Conduct two class projects that integrate multiple skills learned during the class
+
+## Digital Earth Topics
+
+*Introduction to spatial data and remote sensing* - We will first establish a foundation for the semester with a background understanding of the history, science,and physical basis for remote sensing technology. Everything from Corona and Gambit missions during the Cold War to the proliferation of proximal remote sensors we have now as well as phsyics concepts such as the electromagnetic spectrum that underlie how remote sensing works.
+
+*Data access and acquisition*	- There are multiple public and private sources of remote sensing data. We will discuss how to find, access, and acquire data from multiple sources.
+
+*Geospatial data types*	- From vectors to rasters to point clouds, remote sensing data come in multiple flavors and it is important to understand how they all work and work together. 
+
+*Spatial statistics and time-series analysis* - We will cover how to analyze remote sensing data to extract vital information and insight. Topics will include kriging, machine learning approaches, averaging, interpolation, etc. 
+
+*Multispectral remote sensing and spectral indices* - Many satellite-based sensors such as Landsat and MODIS are passive, measuring changes in surface reflectance from the Earth in many discrete reflectance bands (e.g., red, blue, infrared). The resulting data provide great utility to infer plant greenness, surface temperature, water content, and many, many other variables of interest. We will cover how passive remote sensing works and how multispectral data can be used to address ecological research questsions, including a deep-dive into the world of spectral indices.
+
+*Proximal remote sensing* - Not all remote sensing technologies are orbiting the planet. Many can be held in the palm of your hand. An exciting frontier, but one that comes with its own special considerations and techniques. We will focus on the use of unoccupied aerial vehicles (UAVs or drones), RGB cameras, hemispherical imagery, and phenological monitoring cameras (PhenoCam Network). 
+
+![Lidar point-cloud of a forest](https://www.anthropocenemagazine.org/wp-content/uploads/2018/07/LIDAR.gif){#id .class width=100% height=100%}
+
+*Light detection and ranging (LiDAR)* - LiDAR or lidar if you prefer, is a form of active remote sensing which provides measurement and estimate of 3D structure. It has been used for creating detailed topographical and elevation maps or the Earth and for measuring the size and volume of the Earth's forests and many use-cases in between. Lidar is an incredibly useful technology for scientists, albeit it a tricky one to learn how to use. We will tackle the use of aerial lidar and how it can be used for science and monitoring applications.  
+
+*Radar, microwave, and thermal remote sensing* - We will also dive into sligtly lesser known and used remote sensing techniques within ecology, but ones that offer strong potential for future applications. 
+
