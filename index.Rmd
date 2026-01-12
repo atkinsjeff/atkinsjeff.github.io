@@ -3,9 +3,12 @@ title: "Jeff Atkins, PhD"
 ---
 <img src="images/avatar.jpeg" style="float: left;" alt="jeff" hspace = "10">
 
+
 I am an Assistant  Professor in the School of Life Sciences and Sustainability at Virginia Commonwealth University.   My research focuses on 1) forest structure and structural diversity relationships to growth, nutrient cycling, animal habitat, disturbance and climate change response; 2) The spatiotemporal evolution of forest structure and diversity as a function of disturbance mechanisms—specifically focusing on moderate severity disturbance and co-occurring disturbances; 3) Development and application of novel remote sensing techniques in ecology and forestry (e.g., terrestrial laser scanning, UAV, hyperspectral, RGB imagery) to measure forest structure (e.g., structural complexity, stand structure); 4) forest microclimates, including leading the development of ForestMicroNet, a USDA funded project to build a forest microclimate network for the southern US.
 
+
 I (used to) co-host the ecology and science podcast [Major Revisions](http://www.majorrevisionsshow.com)
+
 
 You can follow me on [BlueSky](https://bsky.app/profile/atkinsjeff.bsky.social) or contact me at jwatkins6 (at) vcu.edu
 
