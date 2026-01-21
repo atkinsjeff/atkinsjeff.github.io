@@ -1,0 +1,17 @@
+title: Jeff Atkins
+description: Ecologist
+theme: midnight
+# Or use a remote theme:
+# remote_theme: pages-themes/minimal@v0.2.0
+
+# Customize
+author:
+  name: Jeff Atkins
+  email: jwatkins6@vcu.edu
+
+# Navigation
+header_pages:
+  - about.md
+
+# Social links
+github_username: atkinsjeff

@@ -2,12 +2,12 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         },
         {
             "columnIndex": 4,
             "ascending": false
         }
     ],
-    "path": "F:/R_projects/atkinsjeff.github.io/academicpages.github.io"
+    "path": "F:/R_projects/atkinsjeff.github.io/_pages"
 }
