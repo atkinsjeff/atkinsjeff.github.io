@@ -1,5 +1,6 @@
 ---
-  title: "About This Website"
+  title: "About Me"
 ---
   
-  More about this website.
+## Jeff W. Atkins
+I am an ecosystem ecologist. 

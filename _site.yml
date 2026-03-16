@@ -4,10 +4,12 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "About Me"
+      href: about.html
     - text: "Research"
       href: research.html
-    - text: "BIOL 317"
-      href: biol317.html
+    - text: "Courses"
+      href: courses.html
     - text: "BIOL 591"
       href: biol591.html
       
