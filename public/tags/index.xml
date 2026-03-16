@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Dec 2022 19:53:33 +0530</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ejemplo</title>
+      <link>/tags/ejemplo/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/ejemplo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Example</title>
+      <link>/tags/example/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exemple</title>
+      <link>/tags/exemple/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/exemple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown Syntax</title>
+      <link>/tags/markdown-syntax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/markdown-syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathjax</title>
+      <link>/tags/mathjax/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/mathjax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sintaxis De Markdown</title>
+      <link>/tags/sintaxis-de-markdown/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/sintaxis-de-markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntaxe Markdown</title>
+      <link>/tags/syntaxe-markdown/</link>
+      <pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
+      <guid>/tags/syntaxe-markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Échantillon</title>
+      <link>/tags/%C3%A9chantillon/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>/tags/%C3%A9chantillon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Muestra</title>
+      <link>/tags/muestra/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>/tags/muestra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sample</title>
+      <link>/tags/sample/</link>
+      <pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate>
+      <guid>/tags/sample/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>/tags/emoji-support/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>/tags/emoji-support/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soporte De Emoji</title>
+      <link>/tags/soporte-de-emoji/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>/tags/soporte-de-emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Support Des Emoji</title>
+      <link>/tags/support-des-emoji/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      <guid>/tags/support-des-emoji/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>/tags/placeholder-text/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>/tags/placeholder-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texte De Remplissage</title>
+      <link>/tags/texte-de-remplissage/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>/tags/texte-de-remplissage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Texto De Relleno</title>
+      <link>/tags/texto-de-relleno/</link>
+      <pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate>
+      <guid>/tags/texto-de-relleno/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contenido Enriquecido</title>
+      <link>/tags/contenido-enriquecido/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>/tags/contenido-enriquecido/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contenu Enrichi</title>
+      <link>/tags/contenu-enrichi/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>/tags/contenu-enrichi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>/tags/rich-content/</link>
+      <pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate>
+      <guid>/tags/rich-content/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

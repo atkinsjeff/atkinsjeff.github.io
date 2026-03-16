@@ -1,34 +1,48 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
 <title>Research</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -41,32 +55,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -78,13 +68,8 @@ h6 {
   margin-left: auto;
   margin-right: auto;
 }
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -98,40 +83,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -159,7 +120,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -171,7 +132,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -181,11 +142,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -197,13 +175,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -211,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -233,6 +203,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -244,18 +215,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -275,7 +234,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -291,10 +250,10 @@ $(document).ready(function () {
   <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="cv.html">CV</a>
+  <a href="biol317.html">BIOL 317</a>
 </li>
 <li>
-  <a href="outreach.html">Science Communication and Outreach</a>
+  <a href="biol591.html">BIOL 591</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -304,7 +263,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -314,33 +273,93 @@ $(document).ready(function () {
 
 
 <hr />
+<div id="mapping-post-hurricane-disturbance-severity"
+class="section level1">
+<h1>Mapping Post-Hurricane Disturbance Severity
+<img src="images/icesat.png" style="width:25%; border:2px solid; margin-right: 20px" align="left"/></h1>
+<p>NASA and USDA-NIFA funded work in my lab and with collaborators at
+the US Forest Service and University of Florida, is focused on using
+Spaceborne Remote Sensing and AI/Machine Learning Advancing the
+precision, accuracy, and timing of mapping hurricane disturbance impacts
+on ecosystems through a data fusion approach integrating multiple
+sources of ground observations, field surveys, and remote sensing data
+(GEDI, ICESat-2, TLS) using AI/machine learning models (Random Forest,
+Neural Networks). I co-lead this work with other PIs from the Forest
+Service &amp; U. of Florida which involves three separately funded but
+integrated projects (funding from NASA ICESat-2, NASA SmallSat, and
+NIFA-AIRS programs)</p>
+<p><a
+href="https://carlos-alberto-silva.github.io/silvalab/icesat4d/icesat4d_home.html">Hurricane
+Disturbance Mapping Project</a></p>
+<hr />
+</div>
 <div id="canopy-structural-complexity" class="section level1">
-<h1>Canopy Structural Complexity</h1>
-<p><img src="images/canopy.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left"></p>
-<p>Canopy structure, an ecosystem feature that can be broadly characterized using remote sensing technologies, is a well-established determinant of forest carbon storage, with the quantity of canopy leaves a universal predictor of carbon storage. But the arrangement of leaves in the canopy, rather than just the volume, may provide unique, complementary information about the underlying biological controls on forest carbon storage. Thus, coordinated measurements of both leaf quantity and arrangement within the canopies of a diverse array of forests may lead to substantially improved estimates of carbon storage. My work uses sites from across the eastern US, including sites associated with the National Ecological Observatory Network (NEON), AmeriFlux, and the NSF Long-Term Ecological Research (LTER) network, to evaluate whether canopy structural complexity, or the spatial variability in leaf arrangement within a canopy, is a global predictor of forest carbon storage within and across sites varying in physical structure, species composition and diversity, and climate.</p>
+<h1>Canopy Structural Complexity
+<img src="images/canopy.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left"/></h1>
+<p>Canopy structure, an ecosystem feature that can be broadly
+characterized using remote sensing technologies, is a well-established
+determinant of forest carbon storage, with the quantity of canopy leaves
+a universal predictor of carbon storage. But the arrangement of leaves
+in the canopy, rather than just the volume, may provide unique,
+complementary information about the underlying biological controls on
+forest carbon storage. Thus, coordinated measurements of both leaf
+quantity and arrangement within the canopies of a diverse array of
+forests may lead to substantially improved estimates of carbon storage.
+My work uses sites from across the eastern US, including sites
+associated with the National Ecological Observatory Network (NEON),
+AmeriFlux, and the NSF Long-Term Ecological Research (LTER) network, to
+evaluate whether canopy structural complexity, or the spatial
+variability in leaf arrangement within a canopy, is a global predictor
+of forest carbon storage within and across sites varying in physical
+structure, species composition and diversity, and climate.</p>
 <hr />
 </div>
 <div id="moderate-disturbance" class="section level1">
-<h1>Moderate Disturbance</h1>
-<p><img src="images/grsm.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left"></p>
-<p>I am also working with a team of core researchers focused on assessing how forest structure changes with moderate disturbance (e.g. ice, fire, insects, pathogens) across an array of sites including Hubbard Brook Experimental Forest, University of Michigan Biological Station, and the Great Smoky Mountains National Park.</p>
-<p>Various disturbances agents leave unique structural signatures. Ice storms remove more vegetation in the upper canopy, while beech bark disease creates isolated deep gaps. Through using terrestrial lidar, these signatures can be identified and their ecololgical impacts can then be tested.</p>
-<p><a href="https://www.nrs.fs.fed.us/sustaining_forests/natural_disturbance/ice_storm_experiment/">Hubbard Brook Experimental Forest Ice Storm Experiment</a><br />
-<a href="https://lsa.umich.edu/umbs">University of Michigan Biological Station</a></p>
+<h1>Moderate Disturbance
+<img src="images/grsm.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left"/></h1>
+<p>I am also working with a team of core researchers focused on
+assessing how forest structure changes with moderate disturbance
+(e.g. ice, fire, insects, pathogens) across an array of sites including
+Hubbard Brook Experimental Forest, University of Michigan Biological
+Station, and the Great Smoky Mountains National Park.</p>
+<p>Various disturbances agents leave unique structural signatures. Ice
+storms remove more vegetation in the upper canopy, while beech bark
+disease creates isolated deep gaps. Through using terrestrial lidar,
+these signatures can be identified and their ecololgical impacts can
+then be tested.</p>
+<p><a
+href="https://www.nrs.fs.fed.us/sustaining_forests/natural_disturbance/ice_storm_experiment/">Hubbard
+Brook Experimental Forest Ice Storm Experiment</a><br />
+<a href="https://lsa.umich.edu/umbs">University of Michigan Biological
+Station</a></p>
 <hr />
 </div>
 <div id="novel-remote-sensing-methods" class="section level1">
-<h1>Novel Remote Sensing Methods</h1>
-<p><img src="images/ndvi.png" style="width:25%; border:2px solid; margin-right: 20px" align="left"> New and novel means of remotely sensing the environment are creating new and exciting opportunities in ecology and across the earth sciences. In my work I am using a combination of multiple terrestrial based remote sensing platforms: hemispherical NDVI cameras to monitor plant greenness and phenology; terrestrial 2D and 3D lidar units to measure quantify ecological structure, sensor arrays to monitor soil moisture, as well as some work with UAV/terrestrial data fusion.</p>
+<h1>Novel Remote Sensing Methods
+<img src="images/ndvi.png" style="width:25%; border:2px solid; margin-right: 20px" align="left"/></h1>
+<p>New and novel means of remotely sensing the environment are creating
+new and exciting opportunities in ecology and across the earth sciences.
+In my work I am using a combination of multiple terrestrial based remote
+sensing platforms: hemispherical NDVI cameras to monitor plant greenness
+and phenology; terrestrial 2D and 3D lidar units to measure quantify
+ecological structure, sensor arrays to monitor soil moisture, as well as
+some work with UAV/terrestrial data fusion.</p>
+<hr />
 </div>
 <div id="shenandoah-watershed-study" class="section level1">
-<h1>Shenandoah Watershed Study</h1>
-<p><img src="images/swas.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left"></p>
-<p>I have also worked with the <a href="http://people.virginia.edu/~swas/POST/scripts/overview.php">Shenandoah Watershed Study and Virginia Trout Stream Sensitivity Study</a>, a monitoring and research program focused on understanding the biogeochemistry of mountain headwater streams in Virginia, West Virginia, and Maryland–including Shenandoah National Park and other public lands.</p>
+<h1>Shenandoah Watershed Study
+<img src="images/swas.jpg" style="width:25%; border:2px solid; margin-right: 20px" align="left"/></h1>
+<p>I have also worked with the <a
+href="http://people.virginia.edu/~swas/POST/scripts/overview.php">Shenandoah
+Watershed Study and Virginia Trout Stream Sensitivity Study</a>, a
+monitoring and research program focused on understanding the
+biogeochemistry of mountain headwater streams in Virginia, West
+Virginia, and Maryland–including Shenandoah National Park and other
+public lands.</p>
 <hr />
 </div>
 
-<p>Copyright &copy; 2019 All rights reserved.</p>
+<p>Copyright &copy; 2025 All rights reserved.</p>
 
 
 
@@ -350,7 +369,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -358,6 +377,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
