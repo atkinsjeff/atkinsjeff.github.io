@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-------------------------------------------------------------------------
-
 # Mapping Post-Hurricane Disturbance Severity <img src="images/icesat.png" style="width:25%; border:2px solid; margin-right: 20px" align="left"/>
 
 NASA and USDA-NIFA funded work in my lab and with collaborators at the US Forest Service and University of Florida, is focused on using Spaceborne Remote Sensing and AI/Machine Learning Advancing the precision, accuracy, and timing of mapping hurricane disturbance impacts on ecosystems through a data fusion approach integrating multiple sources of ground observations, field surveys, and remote sensing data (GEDI, ICESat-2, TLS) using AI/machine learning models (Random Forest, Neural Networks). I co-lead this work with other PIs from the Forest Service & U. of Florida which involves three separately funded but integrated projects (funding from NASA ICESat-2, NASA SmallSat, and NIFA-AIRS programs)

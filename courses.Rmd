@@ -1,6 +1,5 @@
 ---
 title: "Courses"
-
 ---
 
 ##  Spring 2026
