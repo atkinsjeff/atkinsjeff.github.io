@@ -3,13 +3,18 @@ title: "Jeff Atkins, PhD"
 ---
 <img src="images/avatar.jpeg" style="float: left;" alt="jeff" hspace = "10">
 
-I am an Assistant Research Professor in the Biology Dept. at Virginia Commonwealth University.   My research focuses on 1) forest structure and structural diversity relationships to growth, nutrient cycling, animal habitat, disturbance and climate change response; 2) The spatiotemporal evolution of forest structure and diversity as a function of disturbance mechanisms—specifically focusing on moderate severity disturbance and co-occurring disturbances; 3) Development and application of novel remote sensing techniques in ecology and forestry (e.g., terrestrial laser scanning, UAV, hyperspectral, RGB imagery) to measure forest structure (e.g., structural complexity, stand structure); 4) forest microclimates, including leading the development of ForestMicroNet, a USDA funded project to build a forest microclimate network for the southern US.
-
-I co-host the ecology and science podcast [Major Revisions](http://www.majorrevisionsshow.com)
+I am an Assistant Professor in the School of Life Sciences and Sustainability at Virginia Commonwealth University and broadly trained ecosystem and Earth system scientist
+with research expertise spanning watershed biogeochemistry, remote sensing, forest structure analysis, quantitative ecology, and carbon/water cycling dynamics. My research is driven by a fundamental question: how is the natural world built, and what does that mean for ecosystem function? I seek to understand how the physical and spatial structure of ecosystems influences the movement of energy and matter across scales—from individual plots to entire landscapes. I approach this through integrative, systems-based research that combines multiple data sources and methodologies: modeling, remote sensing, field measurements, manipulative experiments, and long-term datasets. Beyond conducting research, I am committed to building open-source tools for the scientific community (R packages, dashboards, datasets), engaging with stakeholders and policymakers, and fostering collaboration across disciplines and international borders. I believe the most pressing questions in ecosystem science require moving beyond disciplinary boundaries and that scientific insight must ultimately inform land management and policy decisions.
 
 You can follow me on [BlueSky](https://bsky.app/profile/atkinsjeff.bsky.social) or contact me at jwatkins6 (at) vcu.gov 
 
 [Google Scholar](https://scholar.google.com/citations?user=Ea33pwcAAAAJ&hl=en)
+
+[My Github](https://github.com/atkinsjeff)
+
+I (used to) co-host the ecology and science podcast [Major Revisions](http://www.majorrevisionsshow.com)
+
+
 
 
 
